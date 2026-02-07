@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Anonymous Relationship & Lifestyle Assessment (Instant Results)</title>
+  <link rel="stylesheet" href="styles.css"/>
+</head>
+<body>
+  <header class="wrap">
+    <h1>Anonymous Assessment</h1>
+    <p class="sub">
+      Runs <strong>in your browser</strong>. No accounts. No email required. Instant on‑screen results.
+    </p>
+    <div class="note">
+      <strong>Important:</strong> Adults only. Consent matters. This is not therapy or medical advice.
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section id="loading" class="card">Loading survey…</section>
+
+    <section id="survey" class="card hidden">
+      <div class="topbar">
+        <div>
+          <div id="progressText" class="muted"></div>
+          <div class="progress"><div id="progressBar"></div></div>
+        </div>
+        <button id="jumpBtn" class="btn ghost" type="button">Jump to section</button>
+      </div>
+
+      <div id="sectionTitle" class="sectionTitle"></div>
+      <div id="questionHost"></div>
+
+      <div class="actions">
+        <button id="prevBtn" class="btn ghost" type="button">Back</button>
+        <button id="nextBtn" class="btn" type="button">Next</button>
+      </div>
+
+      <div class="footer muted">
+        Tip: You can skip any question that feels unsafe or irrelevant. Skips reduce precision.
+      </div>
+    </section>
+
+    <section id="results" class="card hidden">
+      <h2>Your Results</h2>
+      <div id="resultSummary" class="resultSummary"></div>
+
+      <div class="grid2">
+        <div class="mini card2">
+          <h3>Scores</h3>
+          <div id="scoreList"></div>
+        </div>
+        <div class="mini card2">
+          <h3>Next Steps</h3>
+          <div id="nextSteps"></div>
+        </div>
+      </div>
+
+      <div class="actions">
+        <button id="restartBtn" class="btn ghost" type="button">Restart</button>
+        <button id="downloadBtn" class="btn" type="button">Download Results (JSON)</button>
+      </div>
+
+      <details class="card2">
+        <summary>Privacy / What is stored?</summary>
+        <p>
+          By default, nothing is transmitted anywhere. Your answers stay in your browser.
+          If you later add a backend, do it explicitly and say so on the welcome screen.
+        </p>
+      </details>
+    </section>
+
+    <section id="jumpModal" class="modal hidden" aria-hidden="true">
+      <div class="modalBox">
+        <div class="modalHead">
+          <strong>Jump to section</strong>
+          <button id="closeJump" class="btn ghost" type="button">Close</button>
+        </div>
+        <div id="jumpList" class="jumpList"></div>
+      </div>
+    </section>
+  </main>
+
+  <script src="scoring.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

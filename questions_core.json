@@ -1,0 +1,7937 @@
+{
+  "version": "0.1",
+  "questions": [
+    {
+      "id": "Q1",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q1 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q2",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q2 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q3",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q3 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q4",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q4 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q5",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q5 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q6",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q6 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q7",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q7 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q8",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q8 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q9",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q9 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q10",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q10 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q11",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q11 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q12",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q12 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q13",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q13 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q14",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q14 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q15",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q15 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q16",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q16 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q17",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q17 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q18",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q18 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q19",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q19 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q20",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q20 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q21",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q21 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q22",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q22 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q23",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q23 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q24",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q24 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q25",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q25 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q26",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q26 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q27",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q27 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q28",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q28 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q29",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q29 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q30",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q30 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q31",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q31 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q32",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q32 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q33",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q33 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q34",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q34 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q35",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q35 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q36",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q36 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q37",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q37 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q38",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q38 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q39",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q39 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q40",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q40 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q41",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q41 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q42",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q42 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q43",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q43 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q44",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q44 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q45",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q45 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q46",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q46 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q47",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q47 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q48",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q48 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q49",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q49 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q50",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q50 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q51",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q51 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q52",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q52 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q53",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q53 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q54",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q54 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q55",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q55 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q56",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q56 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q57",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q57 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q58",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q58 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q59",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q59 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q60",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q60 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q61",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q61 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q62",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q62 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q63",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q63 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q64",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q64 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q65",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q65 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q66",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q66 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q67",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q67 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q68",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q68 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q69",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q69 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q70",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q70 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q71",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q71 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q72",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q72 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q73",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q73 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q74",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q74 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q75",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q75 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q76",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q76 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q77",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q77 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q78",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q78 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q79",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q79 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q80",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q80 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q81",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q81 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q82",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q82 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q83",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q83 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q84",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q84 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q85",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q85 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q86",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q86 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q87",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q87 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q88",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q88 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q89",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q89 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q90",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q90 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q91",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q91 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q92",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q92 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q93",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q93 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q94",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q94 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q95",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q95 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q96",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q96 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q97",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q97 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q98",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q98 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q99",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q99 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q100",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q100 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q101",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q101 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q102",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q102 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q103",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q103 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q104",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q104 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q105",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q105 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q106",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q106 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q107",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q107 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q108",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q108 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q109",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q109 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q110",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q110 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q111",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q111 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q112",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q112 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q113",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q113 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q114",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q114 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q115",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q115 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q116",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q116 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q117",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q117 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q118",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q118 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q119",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q119 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q120",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q120 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q121",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q121 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q122",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q122 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q123",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q123 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q124",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q124 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q125",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q125 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q126",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q126 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q127",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q127 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q128",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q128 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q129",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q129 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q130",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q130 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q131",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q131 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q132",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q132 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q133",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q133 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q134",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q134 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q135",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q135 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q136",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q136 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q137",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q137 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q138",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q138 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q139",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q139 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q140",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q140 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q141",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q141 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q142",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q142 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q143",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q143 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q144",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q144 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q145",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q145 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q146",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q146 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q147",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q147 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q148",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q148 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q149",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q149 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q150",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q150 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q151",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q151 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q152",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q152 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q153",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q153 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q154",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q154 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q155",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q155 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q156",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q156 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q157",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q157 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q158",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q158 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q159",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q159 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q160",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q160 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q161",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q161 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q162",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q162 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q163",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q163 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q164",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q164 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q165",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q165 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q166",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q166 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q167",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q167 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q168",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q168 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q169",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q169 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q170",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q170 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q171",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q171 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q172",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q172 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q173",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q173 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q174",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q174 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q175",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q175 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q176",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q176 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q177",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q177 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q178",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q178 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q179",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q179 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q180",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q180 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q181",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q181 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q182",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q182 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q183",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q183 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q184",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q184 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q185",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q185 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q186",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q186 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q187",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q187 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q188",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q188 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q189",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q189 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q190",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q190 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q191",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q191 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q192",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q192 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q193",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q193 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q194",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q194 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q195",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q195 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q196",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q196 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q197",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q197 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q198",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q198 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q199",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q199 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q200",
+      "type": "text",
+      "text": "[PLACEHOLDER] Insert your finalized wording for Q200 here.",
+      "rows": 2,
+      "placeholder": "Replace this placeholder question text with the final item."
+    },
+    {
+      "id": "Q201",
+      "type": "single",
+      "text": "Has male–male involvement ever been part of your fantasy for this lifestyle?",
+      "options": [
+        {
+          "value": "not_at_all",
+          "label": "Not at all"
+        },
+        {
+          "value": "mild_curiosity",
+          "label": "Mild curiosity"
+        },
+        {
+          "value": "moderate_interest",
+          "label": "Moderate interest"
+        },
+        {
+          "value": "strong_fantasy",
+          "label": "Strong fantasy"
+        },
+        {
+          "value": "central_driver",
+          "label": "Central driver"
+        }
+      ]
+    },
+    {
+      "id": "Q202",
+      "type": "single",
+      "text": "Who first raised the idea?",
+      "options": [
+        {
+          "value": "me",
+          "label": "Me"
+        },
+        {
+          "value": "him",
+          "label": "Him"
+        },
+        {
+          "value": "the_bull",
+          "label": "The bull"
+        },
+        {
+          "value": "mutual",
+          "label": "Mutual"
+        },
+        {
+          "value": "porn/media_influence",
+          "label": "Porn/media influence"
+        },
+        {
+          "value": "community_influence",
+          "label": "Community influence"
+        },
+        {
+          "value": "not_sure",
+          "label": "Not sure"
+        }
+      ]
+    },
+    {
+      "id": "Q203",
+      "type": "single",
+      "text": "How did it first come up?",
+      "options": [
+        {
+          "value": "serious_conversation",
+          "label": "Serious conversation"
+        },
+        {
+          "value": "flirty_suggestion",
+          "label": "Flirty suggestion"
+        },
+        {
+          "value": "during_sex",
+          "label": "During sex"
+        },
+        {
+          "value": "after_porn",
+          "label": "After porn"
+        },
+        {
+          "value": "as_a_“test”",
+          "label": "As a “test”"
+        },
+        {
+          "value": "during_conflict",
+          "label": "During conflict"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        }
+      ]
+    },
+    {
+      "id": "Q204",
+      "type": "single",
+      "text": "Your intent when raising it (best fit)",
+      "options": [
+        {
+          "value": "pure_fantasy/turn-on",
+          "label": "Pure fantasy/turn-on"
+        },
+        {
+          "value": "relationship_exploration",
+          "label": "Relationship exploration"
+        },
+        {
+          "value": "power_dynamic",
+          "label": "Power dynamic"
+        },
+        {
+          "value": "humiliation_kink",
+          "label": "Humiliation kink"
+        },
+        {
+          "value": "curiosity",
+          "label": "Curiosity"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        },
+        {
+          "value": "prefer_not_to_say",
+          "label": "Prefer not to say"
+        }
+      ]
+    },
+    {
+      "id": "Q205",
+      "type": "scale",
+      "text": "How respectful was your approach?",
+      "min": 0,
+      "max": 10
+    },
+    {
+      "id": "Q206",
+      "type": "single",
+      "text": "How persistent were you about it?",
+      "options": [
+        {
+          "value": "one_mention",
+          "label": "One mention"
+        },
+        {
+          "value": "occasional",
+          "label": "Occasional"
+        },
+        {
+          "value": "repeated_over_time",
+          "label": "Repeated over time"
+        },
+        {
+          "value": "frequent_pressure",
+          "label": "Frequent pressure"
+        },
+        {
+          "value": "constant_push",
+          "label": "Constant push"
+        }
+      ]
+    },
+    {
+      "id": "Q207",
+      "type": "single",
+      "text": "Did you frame it as optional and safe to refuse?",
+      "options": [
+        {
+          "value": "clearly_yes",
+          "label": "Clearly yes"
+        },
+        {
+          "value": "mostly",
+          "label": "Mostly"
+        },
+        {
+          "value": "mixed",
+          "label": "Mixed"
+        },
+        {
+          "value": "not_really",
+          "label": "Not really"
+        },
+        {
+          "value": "no",
+          "label": "No"
+        }
+      ]
+    },
+    {
+      "id": "Q208",
+      "type": "single",
+      "text": "His initial reaction",
+      "options": [
+        {
+          "value": "enthusiastic",
+          "label": "Enthusiastic"
+        },
+        {
+          "value": "curious_but_nervous",
+          "label": "Curious but nervous"
+        },
+        {
+          "value": "unsure",
+          "label": "Unsure"
+        },
+        {
+          "value": "resistant",
+          "label": "Resistant"
+        },
+        {
+          "value": "strongly_against",
+          "label": "Strongly against"
+        },
+        {
+          "value": "didn’t_answer",
+          "label": "Didn’t answer"
+        }
+      ]
+    },
+    {
+      "id": "Q209",
+      "type": "single",
+      "text": "Did you interpret his reaction as…",
+      "options": [
+        {
+          "value": "genuine_interest",
+          "label": "Genuine interest"
+        },
+        {
+          "value": "people-pleasing",
+          "label": "People-pleasing"
+        },
+        {
+          "value": "fearful",
+          "label": "Fearful"
+        },
+        {
+          "value": "embarrassed/shame",
+          "label": "Embarrassed/shame"
+        },
+        {
+          "value": "hard_boundary",
+          "label": "Hard boundary"
+        },
+        {
+          "value": "unsure",
+          "label": "Unsure"
+        }
+      ]
+    },
+    {
+      "id": "Q210",
+      "type": "single",
+      "text": "Have you ever laughed, teased, or used it to “get at him”?",
+      "options": [
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "rare",
+          "label": "Rare"
+        },
+        {
+          "value": "sometimes",
+          "label": "Sometimes"
+        },
+        {
+          "value": "often",
+          "label": "Often"
+        },
+        {
+          "value": "yes,_it’s_part_of_the_kink",
+          "label": "Yes, it’s part of the kink"
+        }
+      ]
+    },
+    {
+      "id": "Q211",
+      "type": "single",
+      "text": "When teasing happens, it is usually…",
+      "options": [
+        {
+          "value": "clearly_consensual_roleplay",
+          "label": "Clearly consensual roleplay"
+        },
+        {
+          "value": "mixed",
+          "label": "Mixed"
+        },
+        {
+          "value": "sometimes_crosses_into_cruelty",
+          "label": "Sometimes crosses into cruelty"
+        },
+        {
+          "value": "often_crosses_into_cruelty",
+          "label": "Often crosses into cruelty"
+        },
+        {
+          "value": "not_applicable",
+          "label": "Not applicable"
+        }
+      ]
+    },
+    {
+      "id": "Q212",
+      "type": "single",
+      "text": "Have you ever used it as leverage (e.g., “prove yourself,” “or else”)?",
+      "options": [
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "rare",
+          "label": "Rare"
+        },
+        {
+          "value": "sometimes",
+          "label": "Sometimes"
+        },
+        {
+          "value": "often",
+          "label": "Often"
+        },
+        {
+          "value": "prefer_not_to_say",
+          "label": "Prefer not to say"
+        }
+      ]
+    },
+    {
+      "id": "Q213",
+      "type": "single",
+      "text": "Do you believe he felt pressured at any point?",
+      "options": [
+        {
+          "value": "no",
+          "label": "No"
+        },
+        {
+          "value": "slightly",
+          "label": "Slightly"
+        },
+        {
+          "value": "moderately",
+          "label": "Moderately"
+        },
+        {
+          "value": "strongly",
+          "label": "Strongly"
+        },
+        {
+          "value": "yes,_clearly",
+          "label": "Yes, clearly"
+        },
+        {
+          "value": "unsure",
+          "label": "Unsure"
+        }
+      ]
+    },
+    {
+      "id": "Q214",
+      "type": "single",
+      "text": "Do you believe you were pressured by him or by the dynamic to push this?",
+      "options": [
+        {
+          "value": "no",
+          "label": "No"
+        },
+        {
+          "value": "slightly",
+          "label": "Slightly"
+        },
+        {
+          "value": "moderately",
+          "label": "Moderately"
+        },
+        {
+          "value": "strongly",
+          "label": "Strongly"
+        },
+        {
+          "value": "yes",
+          "label": "Yes"
+        },
+        {
+          "value": "unsure",
+          "label": "Unsure"
+        }
+      ]
+    },
+    {
+      "id": "Q215",
+      "type": "single",
+      "text": "Does your partner identify as",
+      "options": [
+        {
+          "value": "straight",
+          "label": "Straight"
+        },
+        {
+          "value": "bi",
+          "label": "Bi"
+        },
+        {
+          "value": "gay",
+          "label": "Gay"
+        },
+        {
+          "value": "questioning",
+          "label": "Questioning"
+        },
+        {
+          "value": "doesn’t_label",
+          "label": "Doesn’t label"
+        },
+        {
+          "value": "unknown",
+          "label": "Unknown"
+        },
+        {
+          "value": "prefer_not_to_say",
+          "label": "Prefer not to say"
+        }
+      ]
+    },
+    {
+      "id": "Q216",
+      "type": "single",
+      "text": "Does your partner have past male–male experience?",
+      "options": [
+        {
+          "value": "no",
+          "label": "No"
+        },
+        {
+          "value": "yes",
+          "label": "Yes"
+        },
+        {
+          "value": "not_sure",
+          "label": "Not sure"
+        },
+        {
+          "value": "prefer_not_to_say",
+          "label": "Prefer not to say"
+        }
+      ]
+    },
+    {
+      "id": "Q217",
+      "type": "single",
+      "text": "Does your partner consume male–male porn (to your knowledge)?",
+      "options": [
+        {
+          "value": "no",
+          "label": "No"
+        },
+        {
+          "value": "yes",
+          "label": "Yes"
+        },
+        {
+          "value": "not_sure",
+          "label": "Not sure"
+        },
+        {
+          "value": "prefer_not_to_say",
+          "label": "Prefer not to say"
+        }
+      ]
+    },
+    {
+      "id": "Q218",
+      "type": "multi",
+      "text": "Do you find male–male contact arousing because… (choose up to 3)",
+      "options": [
+        {
+          "value": "taboo",
+          "label": "Taboo"
+        },
+        {
+          "value": "power_exchange",
+          "label": "Power exchange"
+        },
+        {
+          "value": "“alpha”_bonding",
+          "label": "“alpha” bonding"
+        },
+        {
+          "value": "his_vulnerability",
+          "label": "His vulnerability"
+        },
+        {
+          "value": "bi_curiosity",
+          "label": "Bi curiosity"
+        },
+        {
+          "value": "humiliation",
+          "label": "Humiliation"
+        },
+        {
+          "value": "visual_novelty",
+          "label": "Visual novelty"
+        },
+        {
+          "value": "emotional_intensity",
+          "label": "Emotional intensity"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        }
+      ]
+    },
+    {
+      "id": "Q219",
+      "type": "multi",
+      "text": "What “type” of MM involvement is/was desired? (choose all)",
+      "options": [
+        {
+          "value": "kissing",
+          "label": "Kissing"
+        },
+        {
+          "value": "oral_(giving)",
+          "label": "Oral (giving)"
+        },
+        {
+          "value": "oral_(receiving)",
+          "label": "Oral (receiving)"
+        },
+        {
+          "value": "manual_stimulation",
+          "label": "Manual stimulation"
+        },
+        {
+          "value": "anal_(giving)",
+          "label": "Anal (giving)"
+        },
+        {
+          "value": "anal_(receiving)",
+          "label": "Anal (receiving)"
+        },
+        {
+          "value": "chastity_+_tease_by_bull",
+          "label": "Chastity + tease by bull"
+        },
+        {
+          "value": "bull_verbally_dominates_cuck",
+          "label": "Bull verbally dominates cuck"
+        },
+        {
+          "value": "bull_coaches_him_sexually",
+          "label": "Bull coaches him sexually"
+        },
+        {
+          "value": "threesome_with_shared_contact",
+          "label": "Threesome with shared contact"
+        },
+        {
+          "value": "no_physical_contact;_verbal_roleplay_only",
+          "label": "No physical contact; verbal roleplay only"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        },
+        {
+          "value": "prefer_not_to_say",
+          "label": "Prefer not to say"
+        }
+      ]
+    },
+    {
+      "id": "Q220",
+      "type": "single",
+      "text": "If you desire a specific act, why that one?",
+      "options": [
+        {
+          "value": "visual_arousal",
+          "label": "Visual arousal"
+        },
+        {
+          "value": "symbolic_submission",
+          "label": "Symbolic submission"
+        },
+        {
+          "value": "“proof”",
+          "label": "“proof”"
+        },
+        {
+          "value": "intensifies_humiliation",
+          "label": "Intensifies humiliation"
+        },
+        {
+          "value": "bonding",
+          "label": "Bonding"
+        },
+        {
+          "value": "curiosity",
+          "label": "Curiosity"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        }
+      ]
+    },
+    {
+      "id": "Q221",
+      "type": "single",
+      "text": "Have you actually tried any MM involvement?",
+      "options": [
+        {
+          "value": "no",
+          "label": "No"
+        },
+        {
+          "value": "yes_once",
+          "label": "Yes once"
+        },
+        {
+          "value": "yes_a_few_times",
+          "label": "Yes a few times"
+        },
+        {
+          "value": "yes_regularly",
+          "label": "Yes regularly"
+        }
+      ]
+    },
+    {
+      "id": "Q222",
+      "type": "single",
+      "text": "If yes, whose idea in the moment was it?",
+      "options": [
+        {
+          "value": "mine",
+          "label": "Mine"
+        },
+        {
+          "value": "his",
+          "label": "His"
+        },
+        {
+          "value": "bull’s",
+          "label": "Bull’s"
+        },
+        {
+          "value": "mutual",
+          "label": "Mutual"
+        },
+        {
+          "value": "escalated_naturally",
+          "label": "Escalated naturally"
+        },
+        {
+          "value": "unclear",
+          "label": "Unclear"
+        }
+      ]
+    },
+    {
+      "id": "Q223",
+      "type": "single",
+      "text": "How consensual did it feel overall?",
+      "options": [
+        {
+          "value": "fully_consensual",
+          "label": "Fully consensual"
+        },
+        {
+          "value": "mostly",
+          "label": "Mostly"
+        },
+        {
+          "value": "mixed",
+          "label": "Mixed"
+        },
+        {
+          "value": "felt_pressured",
+          "label": "Felt pressured"
+        },
+        {
+          "value": "not_consensual",
+          "label": "Not consensual"
+        },
+        {
+          "value": "prefer_not_to_say",
+          "label": "Prefer not to say"
+        }
+      ]
+    },
+    {
+      "id": "Q224",
+      "type": "scale",
+      "text": "Your enjoyment of it",
+      "min": 0,
+      "max": 10
+    },
+    {
+      "id": "Q225",
+      "type": "single",
+      "text": "His enjoyment of it (your best estimate)",
+      "options": [
+        {
+          "value": "0–2",
+          "label": "0–2"
+        },
+        {
+          "value": "3–4",
+          "label": "3–4"
+        },
+        {
+          "value": "5–6",
+          "label": "5–6"
+        },
+        {
+          "value": "7–8",
+          "label": "7–8"
+        },
+        {
+          "value": "9–10",
+          "label": "9–10"
+        },
+        {
+          "value": "unsure",
+          "label": "Unsure"
+        }
+      ]
+    },
+    {
+      "id": "Q226",
+      "type": "single",
+      "text": "Afterward, his emotional state was usually",
+      "options": [
+        {
+          "value": "proud/excited",
+          "label": "Proud/excited"
+        },
+        {
+          "value": "calm",
+          "label": "Calm"
+        },
+        {
+          "value": "confused",
+          "label": "Confused"
+        },
+        {
+          "value": "ashamed",
+          "label": "Ashamed"
+        },
+        {
+          "value": "angry",
+          "label": "Angry"
+        },
+        {
+          "value": "withdrawn",
+          "label": "Withdrawn"
+        },
+        {
+          "value": "depressed",
+          "label": "Depressed"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        }
+      ]
+    },
+    {
+      "id": "Q227",
+      "type": "single",
+      "text": "Afterward, your emotional state was usually",
+      "options": [
+        {
+          "value": "turned_on",
+          "label": "Turned on"
+        },
+        {
+          "value": "satisfied",
+          "label": "Satisfied"
+        },
+        {
+          "value": "neutral",
+          "label": "Neutral"
+        },
+        {
+          "value": "guilty",
+          "label": "Guilty"
+        },
+        {
+          "value": "worried",
+          "label": "Worried"
+        },
+        {
+          "value": "disappointed",
+          "label": "Disappointed"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        }
+      ]
+    },
+    {
+      "id": "Q228",
+      "type": "single",
+      "text": "Did it change your attraction to him?",
+      "options": [
+        {
+          "value": "increased",
+          "label": "Increased"
+        },
+        {
+          "value": "slightly_increased",
+          "label": "Slightly increased"
+        },
+        {
+          "value": "no_change",
+          "label": "No change"
+        },
+        {
+          "value": "slightly_decreased",
+          "label": "Slightly decreased"
+        },
+        {
+          "value": "decreased",
+          "label": "Decreased"
+        }
+      ]
+    },
+    {
+      "id": "Q229",
+      "type": "single",
+      "text": "Did it change his confidence?",
+      "options": [
+        {
+          "value": "increased",
+          "label": "Increased"
+        },
+        {
+          "value": "no_change",
+          "label": "No change"
+        },
+        {
+          "value": "mixed",
+          "label": "Mixed"
+        },
+        {
+          "value": "decreased",
+          "label": "Decreased"
+        },
+        {
+          "value": "unsure",
+          "label": "Unsure"
+        }
+      ]
+    },
+    {
+      "id": "Q230",
+      "type": "single",
+      "text": "Did it change the power dynamic between you two?",
+      "options": [
+        {
+          "value": "no",
+          "label": "No"
+        },
+        {
+          "value": "slightly",
+          "label": "Slightly"
+        },
+        {
+          "value": "moderately",
+          "label": "Moderately"
+        },
+        {
+          "value": "strongly",
+          "label": "Strongly"
+        },
+        {
+          "value": "it_became_central",
+          "label": "It became central"
+        }
+      ]
+    },
+    {
+      "id": "Q231",
+      "type": "single",
+      "text": "Do you want it to become",
+      "options": [
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "one-off_only",
+          "label": "One-off only"
+        },
+        {
+          "value": "occasional",
+          "label": "Occasional"
+        },
+        {
+          "value": "regular",
+          "label": "Regular"
+        },
+        {
+          "value": "core_part_of_lifestyle",
+          "label": "Core part of lifestyle"
+        }
+      ]
+    },
+    {
+      "id": "Q232",
+      "type": "single",
+      "text": "Does he want it to become",
+      "options": [
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "one-off",
+          "label": "One-off"
+        },
+        {
+          "value": "occasional",
+          "label": "Occasional"
+        },
+        {
+          "value": "regular",
+          "label": "Regular"
+        },
+        {
+          "value": "core",
+          "label": "Core"
+        },
+        {
+          "value": "unsure",
+          "label": "Unsure"
+        }
+      ]
+    },
+    {
+      "id": "Q233",
+      "type": "single",
+      "text": "What’s the biggest risk you worry about?",
+      "options": [
+        {
+          "value": "he_feels_coerced",
+          "label": "He feels coerced"
+        },
+        {
+          "value": "shame_spiral",
+          "label": "Shame spiral"
+        },
+        {
+          "value": "relationship_fracture",
+          "label": "Relationship fracture"
+        },
+        {
+          "value": "he_prefers_men",
+          "label": "He prefers men"
+        },
+        {
+          "value": "bull_oversteps",
+          "label": "Bull oversteps"
+        },
+        {
+          "value": "social_exposure",
+          "label": "Social exposure"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        }
+      ]
+    },
+    {
+      "id": "Q234",
+      "type": "single",
+      "text": "Do you fear he might prefer men over you?",
+      "options": [
+        {
+          "value": "not_at_all",
+          "label": "Not at all"
+        },
+        {
+          "value": "slightly",
+          "label": "Slightly"
+        },
+        {
+          "value": "moderately",
+          "label": "Moderately"
+        },
+        {
+          "value": "strongly",
+          "label": "Strongly"
+        },
+        {
+          "value": "yes",
+          "label": "Yes"
+        }
+      ]
+    },
+    {
+      "id": "Q235",
+      "type": "single",
+      "text": "If that fear exists, it comes from…",
+      "options": [
+        {
+          "value": "insecurity",
+          "label": "Insecurity"
+        },
+        {
+          "value": "possessiveness",
+          "label": "Possessiveness"
+        },
+        {
+          "value": "social_stigma",
+          "label": "Social stigma"
+        },
+        {
+          "value": "past_hints",
+          "label": "Past hints"
+        },
+        {
+          "value": "porn_narratives",
+          "label": "Porn narratives"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        },
+        {
+          "value": "not_applicable",
+          "label": "Not applicable"
+        }
+      ]
+    },
+    {
+      "id": "Q236",
+      "type": "single",
+      "text": "Do you have clear stop-words / stop-rules for MM play?",
+      "options": [
+        {
+          "value": "yes_and_always_used",
+          "label": "Yes and always used"
+        },
+        {
+          "value": "yes_but_not_used",
+          "label": "Yes but not used"
+        },
+        {
+          "value": "no",
+          "label": "No"
+        },
+        {
+          "value": "not_sure",
+          "label": "Not sure"
+        }
+      ]
+    },
+    {
+      "id": "Q237",
+      "type": "single",
+      "text": "Does the bull respect boundaries?",
+      "options": [
+        {
+          "value": "always",
+          "label": "Always"
+        },
+        {
+          "value": "often",
+          "label": "Often"
+        },
+        {
+          "value": "sometimes",
+          "label": "Sometimes"
+        },
+        {
+          "value": "rare",
+          "label": "Rare"
+        },
+        {
+          "value": "not_applicable",
+          "label": "Not applicable"
+        },
+        {
+          "value": "unsure",
+          "label": "Unsure"
+        }
+      ]
+    },
+    {
+      "id": "Q238",
+      "type": "single",
+      "text": "Does your partner feel free to say “no” without consequences?",
+      "options": [
+        {
+          "value": "yes",
+          "label": "Yes"
+        },
+        {
+          "value": "mostly",
+          "label": "Mostly"
+        },
+        {
+          "value": "mixed",
+          "label": "Mixed"
+        },
+        {
+          "value": "not_really",
+          "label": "Not really"
+        },
+        {
+          "value": "no",
+          "label": "No"
+        },
+        {
+          "value": "unsure",
+          "label": "Unsure"
+        }
+      ]
+    },
+    {
+      "id": "Q239",
+      "type": "single",
+      "text": "If he says “no,” what usually happens?",
+      "options": [
+        {
+          "value": "respected_and_dropped",
+          "label": "Respected and dropped"
+        },
+        {
+          "value": "discussed_calmly",
+          "label": "Discussed calmly"
+        },
+        {
+          "value": "i_sulk",
+          "label": "I sulk"
+        },
+        {
+          "value": "he_feels_guilt",
+          "label": "He feels guilt"
+        },
+        {
+          "value": "conflict",
+          "label": "Conflict"
+        },
+        {
+          "value": "i_keep_pushing",
+          "label": "I keep pushing"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        }
+      ]
+    },
+    {
+      "id": "Q240",
+      "type": "single",
+      "text": "Net impact on relationship health",
+      "options": [
+        {
+          "value": "improved",
+          "label": "Improved"
+        },
+        {
+          "value": "slightly_improved",
+          "label": "Slightly improved"
+        },
+        {
+          "value": "no_change",
+          "label": "No change"
+        },
+        {
+          "value": "slightly_worse",
+          "label": "Slightly worse"
+        },
+        {
+          "value": "much_worse",
+          "label": "Much worse"
+        }
+      ]
+    },
+    {
+      "id": "Q241",
+      "type": "single",
+      "text": "Overall libido (past 3 months)",
+      "options": [
+        {
+          "value": "very_low",
+          "label": "Very low"
+        },
+        {
+          "value": "low",
+          "label": "Low"
+        },
+        {
+          "value": "medium",
+          "label": "Medium"
+        },
+        {
+          "value": "high",
+          "label": "High"
+        },
+        {
+          "value": "very_high",
+          "label": "Very high"
+        }
+      ]
+    },
+    {
+      "id": "Q242",
+      "type": "multi",
+      "text": "What most reliably turns you on? (choose up to 5)",
+      "options": [
+        {
+          "value": "feeling_desired",
+          "label": "Feeling desired"
+        },
+        {
+          "value": "dominance_(being_dominated)",
+          "label": "Dominance (being dominated)"
+        },
+        {
+          "value": "dominance_(dominating_others)",
+          "label": "Dominance (dominating others)"
+        },
+        {
+          "value": "taboo/forbidden_feeling",
+          "label": "Taboo/forbidden feeling"
+        },
+        {
+          "value": "novelty/new_partner",
+          "label": "Novelty/new partner"
+        },
+        {
+          "value": "emotional_connection",
+          "label": "Emotional connection"
+        },
+        {
+          "value": "physical_intensity/roughness",
+          "label": "Physical intensity/roughness"
+        },
+        {
+          "value": "romance/softness",
+          "label": "Romance/softness"
+        },
+        {
+          "value": "“alpha”_presence",
+          "label": "“Alpha” presence"
+        },
+        {
+          "value": "risk/public-adjacent_thrill",
+          "label": "Risk/public-adjacent thrill"
+        },
+        {
+          "value": "humiliation_(consensual)",
+          "label": "Humiliation (consensual)"
+        },
+        {
+          "value": "power_imbalance",
+          "label": "Power imbalance"
+        },
+        {
+          "value": "watching/being_watched",
+          "label": "Watching/being watched"
+        },
+        {
+          "value": "service/devotion",
+          "label": "Service/devotion"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        }
+      ]
+    },
+    {
+      "id": "Q243",
+      "type": "multi",
+      "text": "Your top “instant turn-offs” (choose up to 4)",
+      "options": [
+        {
+          "value": "neediness",
+          "label": "Neediness"
+        },
+        {
+          "value": "passive/shy_energy",
+          "label": "Passive/shy energy"
+        },
+        {
+          "value": "poor_hygiene",
+          "label": "Poor hygiene"
+        },
+        {
+          "value": "lack_of_confidence",
+          "label": "Lack of confidence"
+        },
+        {
+          "value": "disrespect",
+          "label": "Disrespect"
+        },
+        {
+          "value": "too_gentle",
+          "label": "Too gentle"
+        },
+        {
+          "value": "too_rough",
+          "label": "Too rough"
+        },
+        {
+          "value": "talking_too_much",
+          "label": "Talking too much"
+        },
+        {
+          "value": "silent/awkward",
+          "label": "Silent/awkward"
+        },
+        {
+          "value": "ego/arrogance",
+          "label": "Ego/arrogance"
+        },
+        {
+          "value": "violence_vibe",
+          "label": "Violence vibe"
+        },
+        {
+          "value": "boundary_pushing",
+          "label": "Boundary pushing"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        }
+      ]
+    },
+    {
+      "id": "Q244",
+      "type": "scale",
+      "text": "Arousal from being admired/validated",
+      "min": 0,
+      "max": 10
+    },
+    {
+      "id": "Q245",
+      "type": "scale",
+      "text": "Arousal from control/power",
+      "min": 0,
+      "max": 10
+    },
+    {
+      "id": "Q246",
+      "type": "scale",
+      "text": "Arousal from submission/surrender",
+      "min": 0,
+      "max": 10
+    },
+    {
+      "id": "Q247",
+      "type": "scale",
+      "text": "Arousal from “contrast” vs your partner",
+      "min": 0,
+      "max": 10
+    },
+    {
+      "id": "Q248",
+      "type": "scale",
+      "text": "Arousal from humiliation themes",
+      "min": 0,
+      "max": 10
+    },
+    {
+      "id": "Q249",
+      "type": "scale",
+      "text": "Arousal from emotional intimacy",
+      "min": 0,
+      "max": 10
+    },
+    {
+      "id": "Q250",
+      "type": "single",
+      "text": "When you’re most turned on, you usually want…",
+      "options": [
+        {
+          "value": "slow/intimate",
+          "label": "Slow/intimate"
+        },
+        {
+          "value": "passionate",
+          "label": "Passionate"
+        },
+        {
+          "value": "rough",
+          "label": "Rough"
+        },
+        {
+          "value": "dominant_partner",
+          "label": "Dominant partner"
+        },
+        {
+          "value": "you_being_dominant",
+          "label": "You being dominant"
+        },
+        {
+          "value": "variety",
+          "label": "Variety"
+        },
+        {
+          "value": "depends",
+          "label": "Depends"
+        }
+      ]
+    },
+    {
+      "id": "Q251",
+      "type": "single",
+      "text": "What “role” feels most natural for you in this lifestyle?",
+      "options": [
+        {
+          "value": "romantic_lover",
+          "label": "Romantic lover"
+        },
+        {
+          "value": "sex-first_adventurer",
+          "label": "Sex-first adventurer"
+        },
+        {
+          "value": "domme-leaning",
+          "label": "Domme-leaning"
+        },
+        {
+          "value": "sub-leaning",
+          "label": "Sub-leaning"
+        },
+        {
+          "value": "switch",
+          "label": "Switch"
+        },
+        {
+          "value": "observer/controller",
+          "label": "Observer/controller"
+        },
+        {
+          "value": "unsure",
+          "label": "Unsure"
+        }
+      ]
+    },
+    {
+      "id": "Q252",
+      "type": "single",
+      "text": "Do you experience “performance mode” (acting/playing a part) during encounters?",
+      "options": [
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "rare",
+          "label": "Rare"
+        },
+        {
+          "value": "sometimes",
+          "label": "Sometimes"
+        },
+        {
+          "value": "often",
+          "label": "Often"
+        },
+        {
+          "value": "always",
+          "label": "Always"
+        }
+      ]
+    },
+    {
+      "id": "Q253",
+      "type": "single",
+      "text": "If yes, performance mode is mostly for…",
+      "options": [
+        {
+          "value": "my_partner",
+          "label": "My partner"
+        },
+        {
+          "value": "the_bull",
+          "label": "The bull"
+        },
+        {
+          "value": "myself",
+          "label": "Myself"
+        },
+        {
+          "value": "the_fantasy",
+          "label": "The fantasy"
+        },
+        {
+          "value": "avoiding_judgement",
+          "label": "Avoiding judgement"
+        },
+        {
+          "value": "not_sure",
+          "label": "Not sure"
+        }
+      ]
+    },
+    {
+      "id": "Q254",
+      "type": "single",
+      "text": "Do you become so aroused you “lose track” of the cuck’s presence?",
+      "options": [
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "rare",
+          "label": "Rare"
+        },
+        {
+          "value": "sometimes",
+          "label": "Sometimes"
+        },
+        {
+          "value": "often",
+          "label": "Often"
+        },
+        {
+          "value": "almost_always",
+          "label": "Almost always"
+        }
+      ]
+    },
+    {
+      "id": "Q255",
+      "type": "single",
+      "text": "When that happens, you feel…",
+      "options": [
+        {
+          "value": "free",
+          "label": "Free"
+        },
+        {
+          "value": "guilty",
+          "label": "Guilty"
+        },
+        {
+          "value": "embarrassed",
+          "label": "Embarrassed"
+        },
+        {
+          "value": "neutral",
+          "label": "Neutral"
+        },
+        {
+          "value": "more_turned_on",
+          "label": "More turned on"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        }
+      ]
+    },
+    {
+      "id": "Q256",
+      "type": "single",
+      "text": "Do you prefer sex to feel…",
+      "options": [
+        {
+          "value": "controlled",
+          "label": "Controlled"
+        },
+        {
+          "value": "wild",
+          "label": "Wild"
+        },
+        {
+          "value": "balanced",
+          "label": "Balanced"
+        },
+        {
+          "value": "depends",
+          "label": "Depends"
+        }
+      ]
+    },
+    {
+      "id": "Q257",
+      "type": "single",
+      "text": "Your strongest fantasy category (choose one)",
+      "options": [
+        {
+          "value": "dominance",
+          "label": "Dominance"
+        },
+        {
+          "value": "submission",
+          "label": "Submission"
+        },
+        {
+          "value": "humiliation",
+          "label": "Humiliation"
+        },
+        {
+          "value": "romance",
+          "label": "Romance"
+        },
+        {
+          "value": "“alpha_contrast”",
+          "label": "“alpha contrast”"
+        },
+        {
+          "value": "group",
+          "label": "Group"
+        },
+        {
+          "value": "voyeur/exhibition",
+          "label": "Voyeur/exhibition"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        }
+      ]
+    },
+    {
+      "id": "Q258",
+      "type": "single",
+      "text": "Do your fantasies differ from what you do in real life?",
+      "options": [
+        {
+          "value": "not_much",
+          "label": "Not much"
+        },
+        {
+          "value": "somewhat",
+          "label": "Somewhat"
+        },
+        {
+          "value": "a_lot",
+          "label": "A lot"
+        },
+        {
+          "value": "completely",
+          "label": "Completely"
+        },
+        {
+          "value": "unsure",
+          "label": "Unsure"
+        }
+      ]
+    },
+    {
+      "id": "Q259",
+      "type": "single",
+      "text": "Porn use frequency (you alone)",
+      "options": [
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "rare",
+          "label": "Rare"
+        },
+        {
+          "value": "monthly",
+          "label": "Monthly"
+        },
+        {
+          "value": "weekly",
+          "label": "Weekly"
+        },
+        {
+          "value": "2–4x_week",
+          "label": "2–4x week"
+        },
+        {
+          "value": "daily+",
+          "label": "Daily+"
+        }
+      ]
+    },
+    {
+      "id": "Q260",
+      "type": "single",
+      "text": "Porn use frequency together (with partner)",
+      "options": [
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "rare",
+          "label": "Rare"
+        },
+        {
+          "value": "monthly",
+          "label": "Monthly"
+        },
+        {
+          "value": "weekly",
+          "label": "Weekly"
+        },
+        {
+          "value": "often",
+          "label": "Often"
+        }
+      ]
+    },
+    {
+      "id": "Q261",
+      "type": "multi",
+      "text": "What porn themes turn you on most? (choose up to 5)",
+      "options": [
+        {
+          "value": "hotwife/cuck_themes",
+          "label": "Hotwife/cuck themes"
+        },
+        {
+          "value": "dom/sub",
+          "label": "Dom/sub"
+        },
+        {
+          "value": "rough_sex",
+          "label": "Rough sex"
+        },
+        {
+          "value": "gentle/intimate",
+          "label": "Gentle/intimate"
+        },
+        {
+          "value": "“alpha”_/_dominant_male",
+          "label": "“Alpha” / dominant male"
+        },
+        {
+          "value": "bdsm_(light)",
+          "label": "BDSM (light)"
+        },
+        {
+          "value": "bdsm_(heavy)",
+          "label": "BDSM (heavy)"
+        },
+        {
+          "value": "group_sex_themes",
+          "label": "Group sex themes"
+        },
+        {
+          "value": "voyeur/exhibition",
+          "label": "Voyeur/exhibition"
+        },
+        {
+          "value": "amateur/realistic",
+          "label": "Amateur/realistic"
+        },
+        {
+          "value": "roleplay",
+          "label": "Roleplay"
+        },
+        {
+          "value": "erotic_audio",
+          "label": "Erotic audio"
+        },
+        {
+          "value": "lesbian_/_bi_themes",
+          "label": "Lesbian / Bi themes"
+        },
+        {
+          "value": "male–male_themes",
+          "label": "Male–male themes"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        }
+      ]
+    },
+    {
+      "id": "Q262",
+      "type": "multi",
+      "text": "What porn themes turn you OFF? (choose up to 3)",
+      "options": [
+        {
+          "value": "humiliation",
+          "label": "Humiliation"
+        },
+        {
+          "value": "aggression",
+          "label": "Aggression"
+        },
+        {
+          "value": "degradation",
+          "label": "Degradation"
+        },
+        {
+          "value": "pain",
+          "label": "Pain"
+        },
+        {
+          "value": "non-consent_themes",
+          "label": "Non-consent themes"
+        },
+        {
+          "value": "“porny_acting”",
+          "label": "“Porny acting”"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        }
+      ]
+    },
+    {
+      "id": "Q263",
+      "type": "single",
+      "text": "Porn influence on your desires",
+      "options": [
+        {
+          "value": "none",
+          "label": "None"
+        },
+        {
+          "value": "low",
+          "label": "Low"
+        },
+        {
+          "value": "moderate",
+          "label": "Moderate"
+        },
+        {
+          "value": "high",
+          "label": "High"
+        },
+        {
+          "value": "very_high",
+          "label": "Very high"
+        }
+      ]
+    },
+    {
+      "id": "Q264",
+      "type": "single",
+      "text": "Do you use porn to “prime” before a planned encounter?",
+      "options": [
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "rare",
+          "label": "Rare"
+        },
+        {
+          "value": "sometimes",
+          "label": "Sometimes"
+        },
+        {
+          "value": "often",
+          "label": "Often"
+        },
+        {
+          "value": "always",
+          "label": "Always"
+        }
+      ]
+    },
+    {
+      "id": "Q265",
+      "type": "single",
+      "text": "Your favourite part of porn is usually…",
+      "options": [
+        {
+          "value": "visual_bodies",
+          "label": "Visual bodies"
+        },
+        {
+          "value": "power_dynamic",
+          "label": "Power dynamic"
+        },
+        {
+          "value": "dirty_talk",
+          "label": "Dirty talk"
+        },
+        {
+          "value": "orgasm_reactions",
+          "label": "Orgasm reactions"
+        },
+        {
+          "value": "taboo_narrative",
+          "label": "Taboo narrative"
+        },
+        {
+          "value": "group_energy",
+          "label": "Group energy"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        }
+      ]
+    },
+    {
+      "id": "Q266",
+      "type": "single",
+      "text": "Do you prefer realistic or fantasy-stylized porn?",
+      "options": [
+        {
+          "value": "realistic",
+          "label": "Realistic"
+        },
+        {
+          "value": "fantasy",
+          "label": "Fantasy"
+        },
+        {
+          "value": "mix",
+          "label": "Mix"
+        }
+      ]
+    },
+    {
+      "id": "Q267",
+      "type": "single",
+      "text": "After porn, you feel…",
+      "options": [
+        {
+          "value": "more_desire",
+          "label": "More desire"
+        },
+        {
+          "value": "more_shame",
+          "label": "More shame"
+        },
+        {
+          "value": "neutral",
+          "label": "Neutral"
+        },
+        {
+          "value": "more_curiosity",
+          "label": "More curiosity"
+        },
+        {
+          "value": "more_frustration",
+          "label": "More frustration"
+        }
+      ]
+    },
+    {
+      "id": "Q268",
+      "type": "single",
+      "text": "Does your partner’s porn preference differ from yours?",
+      "options": [
+        {
+          "value": "same",
+          "label": "Same"
+        },
+        {
+          "value": "slightly_different",
+          "label": "Slightly different"
+        },
+        {
+          "value": "very_different",
+          "label": "Very different"
+        },
+        {
+          "value": "don’t_know",
+          "label": "Don’t know"
+        }
+      ]
+    },
+    {
+      "id": "Q269",
+      "type": "single",
+      "text": "Has porn use increased since lifestyle started?",
+      "options": [
+        {
+          "value": "decreased",
+          "label": "Decreased"
+        },
+        {
+          "value": "same",
+          "label": "Same"
+        },
+        {
+          "value": "slightly_increased",
+          "label": "Slightly increased"
+        },
+        {
+          "value": "strongly_increased",
+          "label": "Strongly increased"
+        }
+      ]
+    },
+    {
+      "id": "Q270",
+      "type": "single",
+      "text": "Does porn ever cause conflict?",
+      "options": [
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "rare",
+          "label": "Rare"
+        },
+        {
+          "value": "sometimes",
+          "label": "Sometimes"
+        },
+        {
+          "value": "often",
+          "label": "Often"
+        }
+      ]
+    },
+    {
+      "id": "Q271",
+      "type": "single",
+      "text": "If conflict, why?",
+      "options": [
+        {
+          "value": "jealousy",
+          "label": "Jealousy"
+        },
+        {
+          "value": "comparison",
+          "label": "Comparison"
+        },
+        {
+          "value": "shame",
+          "label": "Shame"
+        },
+        {
+          "value": "“not_like_that_in_real_life”",
+          "label": "“Not like that in real life”"
+        },
+        {
+          "value": "porn_dependency",
+          "label": "Porn dependency"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        },
+        {
+          "value": "not_applicable",
+          "label": "Not applicable"
+        }
+      ]
+    },
+    {
+      "id": "Q272",
+      "type": "single",
+      "text": "Does porn help you communicate desires?",
+      "options": [
+        {
+          "value": "yes",
+          "label": "Yes"
+        },
+        {
+          "value": "sometimes",
+          "label": "Sometimes"
+        },
+        {
+          "value": "no",
+          "label": "No"
+        }
+      ]
+    },
+    {
+      "id": "Q273",
+      "type": "single",
+      "text": "Do you feel judged for what turns you on?",
+      "options": [
+        {
+          "value": "no",
+          "label": "No"
+        },
+        {
+          "value": "slightly",
+          "label": "Slightly"
+        },
+        {
+          "value": "moderately",
+          "label": "Moderately"
+        },
+        {
+          "value": "strongly",
+          "label": "Strongly"
+        }
+      ]
+    },
+    {
+      "id": "Q274",
+      "type": "single",
+      "text": "How honest are you about porn preferences with partner?",
+      "options": [
+        {
+          "value": "fully",
+          "label": "Fully"
+        },
+        {
+          "value": "mostly",
+          "label": "Mostly"
+        },
+        {
+          "value": "some",
+          "label": "Some"
+        },
+        {
+          "value": "minimal",
+          "label": "Minimal"
+        },
+        {
+          "value": "not_at_all",
+          "label": "Not at all"
+        }
+      ]
+    },
+    {
+      "id": "Q275",
+      "type": "scale",
+      "text": "How physically attractive is your partner to you",
+      "min": 0,
+      "max": 10
+    },
+    {
+      "id": "Q276",
+      "type": "multi",
+      "text": "What physical traits of his turn you on most? (choose up to 3)",
+      "options": [
+        {
+          "value": "face",
+          "label": "Face"
+        },
+        {
+          "value": "height",
+          "label": "Height"
+        },
+        {
+          "value": "build",
+          "label": "Build"
+        },
+        {
+          "value": "hands",
+          "label": "Hands"
+        },
+        {
+          "value": "voice",
+          "label": "Voice"
+        },
+        {
+          "value": "smell",
+          "label": "Smell"
+        },
+        {
+          "value": "style",
+          "label": "Style"
+        },
+        {
+          "value": "fitness",
+          "label": "Fitness"
+        },
+        {
+          "value": "masculine_energy",
+          "label": "Masculine energy"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        }
+      ]
+    },
+    {
+      "id": "Q277",
+      "type": "multi",
+      "text": "What traits turn you off? (choose up to 3)",
+      "options": [
+        {
+          "value": "weight/fitness_decline",
+          "label": "Weight/fitness decline"
+        },
+        {
+          "value": "poor_grooming",
+          "label": "Poor grooming"
+        },
+        {
+          "value": "low_confidence",
+          "label": "Low confidence"
+        },
+        {
+          "value": "neediness",
+          "label": "Neediness"
+        },
+        {
+          "value": "hygiene",
+          "label": "Hygiene"
+        },
+        {
+          "value": "passivity",
+          "label": "Passivity"
+        },
+        {
+          "value": "anger",
+          "label": "Anger"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        }
+      ]
+    },
+    {
+      "id": "Q278",
+      "type": "multi",
+      "text": "What are his best sexual assets? (choose up to 3)",
+      "options": [
+        {
+          "value": "oral",
+          "label": "Oral"
+        },
+        {
+          "value": "foreplay",
+          "label": "Foreplay"
+        },
+        {
+          "value": "stamina",
+          "label": "Stamina"
+        },
+        {
+          "value": "romance",
+          "label": "Romance"
+        },
+        {
+          "value": "dirty_talk",
+          "label": "Dirty talk"
+        },
+        {
+          "value": "confidence",
+          "label": "Confidence"
+        },
+        {
+          "value": "dominance",
+          "label": "Dominance"
+        },
+        {
+          "value": "gentleness",
+          "label": "Gentleness"
+        },
+        {
+          "value": "creativity",
+          "label": "Creativity"
+        },
+        {
+          "value": "aftercare",
+          "label": "Aftercare"
+        }
+      ]
+    },
+    {
+      "id": "Q279",
+      "type": "multi",
+      "text": "What does he lack most? (choose up to 3)",
+      "options": [
+        {
+          "value": "initiation",
+          "label": "Initiation"
+        },
+        {
+          "value": "confidence",
+          "label": "Confidence"
+        },
+        {
+          "value": "technique",
+          "label": "Technique"
+        },
+        {
+          "value": "variety",
+          "label": "Variety"
+        },
+        {
+          "value": "dominance",
+          "label": "Dominance"
+        },
+        {
+          "value": "emotional_presence",
+          "label": "Emotional presence"
+        },
+        {
+          "value": "aftercare",
+          "label": "Aftercare"
+        },
+        {
+          "value": "stamina",
+          "label": "Stamina"
+        },
+        {
+          "value": "sexual_awareness",
+          "label": "Sexual awareness"
+        }
+      ]
+    },
+    {
+      "id": "Q280",
+      "type": "single",
+      "text": "Your attraction to him has… (since lifestyle started)",
+      "options": [
+        {
+          "value": "increased_a_lot",
+          "label": "Increased a lot"
+        },
+        {
+          "value": "increased",
+          "label": "Increased"
+        },
+        {
+          "value": "same",
+          "label": "Same"
+        },
+        {
+          "value": "decreased",
+          "label": "Decreased"
+        },
+        {
+          "value": "decreased_a_lot",
+          "label": "Decreased a lot"
+        }
+      ]
+    },
+    {
+      "id": "Q281",
+      "type": "single",
+      "text": "Your respect for him has…",
+      "options": [
+        {
+          "value": "increased_a_lot",
+          "label": "Increased a lot"
+        },
+        {
+          "value": "increased",
+          "label": "Increased"
+        },
+        {
+          "value": "same",
+          "label": "Same"
+        },
+        {
+          "value": "decreased",
+          "label": "Decreased"
+        },
+        {
+          "value": "decreased_a_lot",
+          "label": "Decreased a lot"
+        }
+      ]
+    },
+    {
+      "id": "Q282",
+      "type": "multi",
+      "text": "Your desire for him is most blocked by… (choose up to 2)",
+      "options": [
+        {
+          "value": "emotional_issues",
+          "label": "Emotional issues"
+        },
+        {
+          "value": "repetition",
+          "label": "Repetition"
+        },
+        {
+          "value": "resentment",
+          "label": "Resentment"
+        },
+        {
+          "value": "body_changes",
+          "label": "Body changes"
+        },
+        {
+          "value": "skill_gap",
+          "label": "Skill gap"
+        },
+        {
+          "value": "penis_size_gap",
+          "label": "Penis size gap"
+        },
+        {
+          "value": "hygiene",
+          "label": "Hygiene"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        }
+      ]
+    },
+    {
+      "id": "Q283",
+      "type": "single",
+      "text": "Do you ever feel “pity sex” is happening?",
+      "options": [
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "rare",
+          "label": "Rare"
+        },
+        {
+          "value": "sometimes",
+          "label": "Sometimes"
+        },
+        {
+          "value": "often",
+          "label": "Often"
+        },
+        {
+          "value": "always",
+          "label": "Always"
+        }
+      ]
+    },
+    {
+      "id": "Q284",
+      "type": "single",
+      "text": "Do you feel your partner uses the lifestyle to avoid improving sexually?",
+      "options": [
+        {
+          "value": "no",
+          "label": "No"
+        },
+        {
+          "value": "slightly",
+          "label": "Slightly"
+        },
+        {
+          "value": "moderately",
+          "label": "Moderately"
+        },
+        {
+          "value": "strongly",
+          "label": "Strongly"
+        },
+        {
+          "value": "unsure",
+          "label": "Unsure"
+        }
+      ]
+    },
+    {
+      "id": "Q285",
+      "type": "single",
+      "text": "Do you feel you use the lifestyle to avoid addressing relationship problems?",
+      "options": [
+        {
+          "value": "no",
+          "label": "No"
+        },
+        {
+          "value": "slightly",
+          "label": "Slightly"
+        },
+        {
+          "value": "moderately",
+          "label": "Moderately"
+        },
+        {
+          "value": "strongly",
+          "label": "Strongly"
+        },
+        {
+          "value": "unsure",
+          "label": "Unsure"
+        }
+      ]
+    },
+    {
+      "id": "Q286",
+      "type": "single",
+      "text": "Partner’s willingness to learn/improve sexually",
+      "options": [
+        {
+          "value": "very_high",
+          "label": "Very high"
+        },
+        {
+          "value": "high",
+          "label": "High"
+        },
+        {
+          "value": "medium",
+          "label": "Medium"
+        },
+        {
+          "value": "low",
+          "label": "Low"
+        },
+        {
+          "value": "none",
+          "label": "None"
+        }
+      ]
+    },
+    {
+      "id": "Q287",
+      "type": "single",
+      "text": "Have you clearly communicated what you need sexually?",
+      "options": [
+        {
+          "value": "yes",
+          "label": "Yes"
+        },
+        {
+          "value": "somewhat",
+          "label": "Somewhat"
+        },
+        {
+          "value": "tried_but_failed",
+          "label": "Tried but failed"
+        },
+        {
+          "value": "no",
+          "label": "No"
+        },
+        {
+          "value": "it_feels_unsafe",
+          "label": "It feels unsafe"
+        }
+      ]
+    },
+    {
+      "id": "Q288",
+      "type": "multi",
+      "text": "If you haven’t, why? (choose up to 2)",
+      "options": [
+        {
+          "value": "protect_ego",
+          "label": "Protect ego"
+        },
+        {
+          "value": "fear_conflict",
+          "label": "Fear conflict"
+        },
+        {
+          "value": "shame",
+          "label": "Shame"
+        },
+        {
+          "value": "he_won’t_change",
+          "label": "He won’t change"
+        },
+        {
+          "value": "don’t_know_what_i_need",
+          "label": "Don’t know what I need"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        }
+      ]
+    },
+    {
+      "id": "Q289",
+      "type": "multi",
+      "text": "When you do have great sex with him, what’s different? (choose up to 3)",
+      "options": [
+        {
+          "value": "he_leads",
+          "label": "He leads"
+        },
+        {
+          "value": "he’s_confident",
+          "label": "He’s confident"
+        },
+        {
+          "value": "more_foreplay",
+          "label": "More foreplay"
+        },
+        {
+          "value": "more_dominant",
+          "label": "More dominant"
+        },
+        {
+          "value": "more_present",
+          "label": "More present"
+        },
+        {
+          "value": "more_variety",
+          "label": "More variety"
+        },
+        {
+          "value": "better_timing",
+          "label": "Better timing"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        }
+      ]
+    },
+    {
+      "id": "Q290",
+      "type": "single",
+      "text": "How often do you genuinely crave sex with him?",
+      "options": [
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "monthly",
+          "label": "Monthly"
+        },
+        {
+          "value": "weekly",
+          "label": "Weekly"
+        },
+        {
+          "value": "often",
+          "label": "Often"
+        },
+        {
+          "value": "very_often",
+          "label": "Very often"
+        }
+      ]
+    },
+    {
+      "id": "Q291",
+      "type": "single",
+      "text": "Do you compare him to past lovers internally?",
+      "options": [
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "rare",
+          "label": "Rare"
+        },
+        {
+          "value": "sometimes",
+          "label": "Sometimes"
+        },
+        {
+          "value": "often",
+          "label": "Often"
+        },
+        {
+          "value": "always",
+          "label": "Always"
+        }
+      ]
+    },
+    {
+      "id": "Q292",
+      "type": "single",
+      "text": "Does he compare himself to other men out loud?",
+      "options": [
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "rare",
+          "label": "Rare"
+        },
+        {
+          "value": "sometimes",
+          "label": "Sometimes"
+        },
+        {
+          "value": "often",
+          "label": "Often"
+        },
+        {
+          "value": "always",
+          "label": "Always"
+        }
+      ]
+    },
+    {
+      "id": "Q293",
+      "type": "single",
+      "text": "Bull attractiveness importance",
+      "options": [
+        {
+          "value": "not_important",
+          "label": "Not important"
+        },
+        {
+          "value": "slight",
+          "label": "Slight"
+        },
+        {
+          "value": "moderate",
+          "label": "Moderate"
+        },
+        {
+          "value": "very",
+          "label": "Very"
+        },
+        {
+          "value": "essential",
+          "label": "Essential"
+        }
+      ]
+    },
+    {
+      "id": "Q294",
+      "type": "single",
+      "text": "On average, bulls you’ve been with are… (attractiveness vs partner)",
+      "options": [
+        {
+          "value": "less",
+          "label": "Less"
+        },
+        {
+          "value": "similar",
+          "label": "Similar"
+        },
+        {
+          "value": "more",
+          "label": "More"
+        },
+        {
+          "value": "much_more",
+          "label": "Much more"
+        },
+        {
+          "value": "varies",
+          "label": "Varies"
+        },
+        {
+          "value": "not_applicable",
+          "label": "Not applicable"
+        }
+      ]
+    },
+    {
+      "id": "Q295",
+      "type": "text",
+      "text": "What matters most in choosing a bull? Rank top 3 (e.g., looks, confidence, dominance, respect, skill, safety, size, discretion, chemistry).",
+      "rows": 3,
+      "placeholder": "Example: 1) Chemistry 2) Respect 3) Skill"
+    },
+    {
+      "id": "Q296",
+      "type": "single",
+      "text": "Penis size importance specifically",
+      "options": [
+        {
+          "value": "not_important",
+          "label": "Not important"
+        },
+        {
+          "value": "slight",
+          "label": "Slight"
+        },
+        {
+          "value": "moderate",
+          "label": "Moderate"
+        },
+        {
+          "value": "very",
+          "label": "Very"
+        },
+        {
+          "value": "essential",
+          "label": "Essential"
+        }
+      ]
+    },
+    {
+      "id": "Q297",
+      "type": "single",
+      "text": "What aspect of penis size excites you most?",
+      "options": [
+        {
+          "value": "visual_impact",
+          "label": "Visual impact"
+        },
+        {
+          "value": "feeling_“filled”",
+          "label": "Feeling “filled”"
+        },
+        {
+          "value": "power_symbolism",
+          "label": "Power symbolism"
+        },
+        {
+          "value": "taboo/contrast",
+          "label": "Taboo/contrast"
+        },
+        {
+          "value": "partner’s_reaction",
+          "label": "Partner’s reaction"
+        },
+        {
+          "value": "not_size-driven",
+          "label": "Not size-driven"
+        },
+        {
+          "value": "prefer_not_to_say",
+          "label": "Prefer not to say"
+        }
+      ]
+    },
+    {
+      "id": "Q298",
+      "type": "single",
+      "text": "Does shape/thickness matter to you?",
+      "options": [
+        {
+          "value": "not_at_all",
+          "label": "Not at all"
+        },
+        {
+          "value": "slight",
+          "label": "Slight"
+        },
+        {
+          "value": "moderate",
+          "label": "Moderate"
+        },
+        {
+          "value": "very",
+          "label": "Very"
+        },
+        {
+          "value": "prefer_not_to_say",
+          "label": "Prefer not to say"
+        }
+      ]
+    },
+    {
+      "id": "Q299",
+      "type": "single",
+      "text": "Does stamina matter?",
+      "options": [
+        {
+          "value": "not_at_all",
+          "label": "Not at all"
+        },
+        {
+          "value": "slight",
+          "label": "Slight"
+        },
+        {
+          "value": "moderate",
+          "label": "Moderate"
+        },
+        {
+          "value": "very",
+          "label": "Very"
+        },
+        {
+          "value": "essential",
+          "label": "Essential"
+        }
+      ]
+    },
+    {
+      "id": "Q300",
+      "type": "single",
+      "text": "Bull sexual skill importance",
+      "options": [
+        {
+          "value": "not_important",
+          "label": "Not important"
+        },
+        {
+          "value": "slight",
+          "label": "Slight"
+        },
+        {
+          "value": "moderate",
+          "label": "Moderate"
+        },
+        {
+          "value": "very",
+          "label": "Very"
+        },
+        {
+          "value": "essential",
+          "label": "Essential"
+        }
+      ]
+    },
+    {
+      "id": "Q301",
+      "type": "single",
+      "text": "Bull “energy” preference",
+      "options": [
+        {
+          "value": "gentle",
+          "label": "Gentle"
+        },
+        {
+          "value": "confident",
+          "label": "Confident"
+        },
+        {
+          "value": "dominant",
+          "label": "Dominant"
+        },
+        {
+          "value": "playful",
+          "label": "Playful"
+        },
+        {
+          "value": "detached",
+          "label": "Detached"
+        },
+        {
+          "value": "romantic",
+          "label": "Romantic"
+        },
+        {
+          "value": "depends",
+          "label": "Depends"
+        }
+      ]
+    },
+    {
+      "id": "Q302",
+      "type": "single",
+      "text": "Do you prefer bulls who treat the cuck as…",
+      "options": [
+        {
+          "value": "invisible",
+          "label": "Invisible"
+        },
+        {
+          "value": "neutral",
+          "label": "Neutral"
+        },
+        {
+          "value": "respectful_teammate",
+          "label": "Respectful teammate"
+        },
+        {
+          "value": "friendly",
+          "label": "Friendly"
+        },
+        {
+          "value": "dominant_over_him",
+          "label": "Dominant over him"
+        },
+        {
+          "value": "humiliating",
+          "label": "Humiliating"
+        },
+        {
+          "value": "depends",
+          "label": "Depends"
+        }
+      ]
+    },
+    {
+      "id": "Q303",
+      "type": "single",
+      "text": "Do you find “superior male” framing arousing?",
+      "options": [
+        {
+          "value": "not_at_all",
+          "label": "Not at all"
+        },
+        {
+          "value": "slight",
+          "label": "Slight"
+        },
+        {
+          "value": "moderate",
+          "label": "Moderate"
+        },
+        {
+          "value": "strong",
+          "label": "Strong"
+        },
+        {
+          "value": "central",
+          "label": "Central"
+        }
+      ]
+    },
+    {
+      "id": "Q304",
+      "type": "single",
+      "text": "Do you find it arousing when the bull takes control immediately?",
+      "options": [
+        {
+          "value": "not_at_all",
+          "label": "Not at all"
+        },
+        {
+          "value": "slight",
+          "label": "Slight"
+        },
+        {
+          "value": "moderate",
+          "label": "Moderate"
+        },
+        {
+          "value": "strong",
+          "label": "Strong"
+        },
+        {
+          "value": "essential",
+          "label": "Essential"
+        }
+      ]
+    },
+    {
+      "id": "Q305",
+      "type": "single",
+      "text": "Do you ever feel embarrassed by the cuck’s presence during peak pleasure?",
+      "options": [
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "rare",
+          "label": "Rare"
+        },
+        {
+          "value": "sometimes",
+          "label": "Sometimes"
+        },
+        {
+          "value": "often",
+          "label": "Often"
+        },
+        {
+          "value": "always",
+          "label": "Always"
+        }
+      ]
+    },
+    {
+      "id": "Q306",
+      "type": "single",
+      "text": "During encounters, your attention toward cuck is usually",
+      "options": [
+        {
+          "value": "high_check-ins",
+          "label": "High check-ins"
+        },
+        {
+          "value": "moderate",
+          "label": "Moderate"
+        },
+        {
+          "value": "occasional",
+          "label": "Occasional"
+        },
+        {
+          "value": "minimal",
+          "label": "Minimal"
+        },
+        {
+          "value": "none",
+          "label": "None"
+        }
+      ]
+    },
+    {
+      "id": "Q307",
+      "type": "multi",
+      "text": "Why check in (if you do)? (choose up to 2)",
+      "options": [
+        {
+          "value": "care/aftercare",
+          "label": "Care/aftercare"
+        },
+        {
+          "value": "to_manage_his_jealousy",
+          "label": "To manage his jealousy"
+        },
+        {
+          "value": "to_intensify_his_arousal",
+          "label": "To intensify his arousal"
+        },
+        {
+          "value": "to_control_the_scene",
+          "label": "To control the scene"
+        },
+        {
+          "value": "habit",
+          "label": "Habit"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        },
+        {
+          "value": "not_applicable",
+          "label": "Not applicable"
+        }
+      ]
+    },
+    {
+      "id": "Q308",
+      "type": "single",
+      "text": "Do you prefer the cuck to be…",
+      "options": [
+        {
+          "value": "fully_involved",
+          "label": "Fully involved"
+        },
+        {
+          "value": "watching_only",
+          "label": "Watching only"
+        },
+        {
+          "value": "in_another_room",
+          "label": "In another room"
+        },
+        {
+          "value": "not_present",
+          "label": "Not present"
+        },
+        {
+          "value": "depends",
+          "label": "Depends"
+        }
+      ]
+    },
+    {
+      "id": "Q309",
+      "type": "single",
+      "text": "Have you ever thought “I’d rather he wasn’t here”?",
+      "options": [
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "rare",
+          "label": "Rare"
+        },
+        {
+          "value": "sometimes",
+          "label": "Sometimes"
+        },
+        {
+          "value": "often",
+          "label": "Often"
+        },
+        {
+          "value": "always",
+          "label": "Always"
+        }
+      ]
+    },
+    {
+      "id": "Q310",
+      "type": "single",
+      "text": "If yes, the main reason is…",
+      "options": [
+        {
+          "value": "i_feel_self-conscious",
+          "label": "I feel self-conscious"
+        },
+        {
+          "value": "he_distracts_the_vibe",
+          "label": "He distracts the vibe"
+        },
+        {
+          "value": "i_want_to_lose_myself",
+          "label": "I want to lose myself"
+        },
+        {
+          "value": "he_reacts_badly",
+          "label": "He reacts badly"
+        },
+        {
+          "value": "it_feels_like_pressure",
+          "label": "It feels like pressure"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        },
+        {
+          "value": "not_applicable",
+          "label": "Not applicable"
+        }
+      ]
+    },
+    {
+      "id": "Q311",
+      "type": "single",
+      "text": "Do you “show off” your enjoyment for his benefit?",
+      "options": [
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "rare",
+          "label": "Rare"
+        },
+        {
+          "value": "sometimes",
+          "label": "Sometimes"
+        },
+        {
+          "value": "often",
+          "label": "Often"
+        },
+        {
+          "value": "always",
+          "label": "Always"
+        }
+      ]
+    },
+    {
+      "id": "Q312",
+      "type": "single",
+      "text": "Do you hide enjoyment to protect him?",
+      "options": [
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "rare",
+          "label": "Rare"
+        },
+        {
+          "value": "sometimes",
+          "label": "Sometimes"
+        },
+        {
+          "value": "often",
+          "label": "Often"
+        },
+        {
+          "value": "always",
+          "label": "Always"
+        }
+      ]
+    },
+    {
+      "id": "Q313",
+      "type": "single",
+      "text": "Do you ever exaggerate reactions to fuel his kink?",
+      "options": [
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "rare",
+          "label": "Rare"
+        },
+        {
+          "value": "sometimes",
+          "label": "Sometimes"
+        },
+        {
+          "value": "often",
+          "label": "Often"
+        },
+        {
+          "value": "always",
+          "label": "Always"
+        }
+      ]
+    },
+    {
+      "id": "Q314",
+      "type": "single",
+      "text": "Do you ever fake with a bull?",
+      "options": [
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "rare",
+          "label": "Rare"
+        },
+        {
+          "value": "sometimes",
+          "label": "Sometimes"
+        },
+        {
+          "value": "often",
+          "label": "Often"
+        },
+        {
+          "value": "prefer_not_to_say",
+          "label": "Prefer not to say"
+        }
+      ]
+    },
+    {
+      "id": "Q315",
+      "type": "single",
+      "text": "If performance happens, it’s mostly to…",
+      "options": [
+        {
+          "value": "protect_partner",
+          "label": "Protect partner"
+        },
+        {
+          "value": "perform_the_fantasy",
+          "label": "Perform the fantasy"
+        },
+        {
+          "value": "please_bull",
+          "label": "Please bull"
+        },
+        {
+          "value": "avoid_awkwardness",
+          "label": "Avoid awkwardness"
+        },
+        {
+          "value": "not_sure",
+          "label": "Not sure"
+        }
+      ]
+    },
+    {
+      "id": "Q316",
+      "type": "single",
+      "text": "Do you keep orgasm details vague as a form of control?",
+      "options": [
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "rare",
+          "label": "Rare"
+        },
+        {
+          "value": "sometimes",
+          "label": "Sometimes"
+        },
+        {
+          "value": "often",
+          "label": "Often"
+        },
+        {
+          "value": "always",
+          "label": "Always"
+        }
+      ]
+    },
+    {
+      "id": "Q317",
+      "type": "single",
+      "text": "Do you track orgasms mentally (counts, intensity, “who is best”)?",
+      "options": [
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "rare",
+          "label": "Rare"
+        },
+        {
+          "value": "sometimes",
+          "label": "Sometimes"
+        },
+        {
+          "value": "often",
+          "label": "Often"
+        },
+        {
+          "value": "always",
+          "label": "Always"
+        }
+      ]
+    },
+    {
+      "id": "Q318",
+      "type": "matrix",
+      "text": "Quickest orgasm (typical) — partner vs bull",
+      "rows": [
+        {
+          "key": "partner",
+          "label": "Partner"
+        },
+        {
+          "key": "bull",
+          "label": "Bull"
+        }
+      ],
+      "options": [
+        {
+          "value": "don’t_orgasm",
+          "label": "Don’t orgasm"
+        },
+        {
+          "value": "<1_min",
+          "label": "<1 min"
+        },
+        {
+          "value": "1–5_min",
+          "label": "1–5 min"
+        },
+        {
+          "value": "5–10_min",
+          "label": "5–10 min"
+        },
+        {
+          "value": "10+_min",
+          "label": "10+ min"
+        },
+        {
+          "value": "varies",
+          "label": "Varies"
+        }
+      ]
+    },
+    {
+      "id": "Q319",
+      "type": "matrix",
+      "text": "In a strong 15-minute session, orgasm count is usually…",
+      "rows": [
+        {
+          "key": "partner",
+          "label": "Partner"
+        },
+        {
+          "key": "bull",
+          "label": "Bull"
+        }
+      ],
+      "options": [
+        {
+          "value": "0",
+          "label": "0"
+        },
+        {
+          "value": "1",
+          "label": "1"
+        },
+        {
+          "value": "2",
+          "label": "2"
+        },
+        {
+          "value": "3+",
+          "label": "3+"
+        },
+        {
+          "value": "varies",
+          "label": "Varies"
+        },
+        {
+          "value": "not_applicable",
+          "label": "Not applicable"
+        }
+      ]
+    },
+    {
+      "id": "Q320",
+      "type": "single",
+      "text": "After the encounter, your debrief style is usually",
+      "options": [
+        {
+          "value": "full_truth",
+          "label": "Full truth"
+        },
+        {
+          "value": "curated_truth",
+          "label": "Curated truth"
+        },
+        {
+          "value": "highlight_reel",
+          "label": "Highlight reel"
+        },
+        {
+          "value": "vague",
+          "label": "Vague"
+        },
+        {
+          "value": "avoid_entirely",
+          "label": "Avoid entirely"
+        }
+      ]
+    },
+    {
+      "id": "Q321",
+      "type": "scale",
+      "text": "Interest in multi-man scenarios",
+      "min": 0,
+      "max": 10
+    },
+    {
+      "id": "Q322",
+      "type": "single",
+      "text": "Preferred reality level",
+      "options": [
+        {
+          "value": "fantasy_only",
+          "label": "Fantasy only"
+        },
+        {
+          "value": "would_try_once",
+          "label": "Would try once"
+        },
+        {
+          "value": "occasional",
+          "label": "Occasional"
+        },
+        {
+          "value": "regular",
+          "label": "Regular"
+        },
+        {
+          "value": "no_interest",
+          "label": "No interest"
+        }
+      ]
+    },
+    {
+      "id": "Q323",
+      "type": "multi",
+      "text": "What appeals most? (choose up to 2)",
+      "options": [
+        {
+          "value": "intensity",
+          "label": "Intensity"
+        },
+        {
+          "value": "being_desired",
+          "label": "Being desired"
+        },
+        {
+          "value": "taboo",
+          "label": "Taboo"
+        },
+        {
+          "value": "power",
+          "label": "Power"
+        },
+        {
+          "value": "variety",
+          "label": "Variety"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        }
+      ]
+    },
+    {
+      "id": "Q324",
+      "type": "multi",
+      "text": "What concerns you most? (choose up to 2)",
+      "options": [
+        {
+          "value": "safety",
+          "label": "Safety"
+        },
+        {
+          "value": "judgement",
+          "label": "Judgement"
+        },
+        {
+          "value": "partner_harm",
+          "label": "Partner harm"
+        },
+        {
+          "value": "attachment",
+          "label": "Attachment"
+        },
+        {
+          "value": "loss_of_control",
+          "label": "Loss of control"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        }
+      ]
+    },
+    {
+      "id": "Q325",
+      "type": "single",
+      "text": "Would you want the cuck present?",
+      "options": [
+        {
+          "value": "yes",
+          "label": "Yes"
+        },
+        {
+          "value": "no",
+          "label": "No"
+        },
+        {
+          "value": "unsure",
+          "label": "Unsure"
+        },
+        {
+          "value": "depends",
+          "label": "Depends"
+        }
+      ]
+    },
+    {
+      "id": "Q326",
+      "type": "single",
+      "text": "Would this be for you, for him, or both?",
+      "options": [
+        {
+          "value": "me",
+          "label": "Me"
+        },
+        {
+          "value": "him",
+          "label": "Him"
+        },
+        {
+          "value": "both",
+          "label": "Both"
+        },
+        {
+          "value": "unsure",
+          "label": "Unsure"
+        }
+      ]
+    },
+    {
+      "id": "Q327",
+      "type": "single",
+      "text": "Do you usually have sex with your partner soon after a bull encounter (“reclaim”)?",
+      "options": [
+        {
+          "value": "always",
+          "label": "Always"
+        },
+        {
+          "value": "often",
+          "label": "Often"
+        },
+        {
+          "value": "sometimes",
+          "label": "Sometimes"
+        },
+        {
+          "value": "rare",
+          "label": "Rare"
+        },
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "not_applicable",
+          "label": "Not applicable"
+        }
+      ]
+    },
+    {
+      "id": "Q328",
+      "type": "single",
+      "text": "If reclaim happens, timing is usually…",
+      "options": [
+        {
+          "value": "immediately_after",
+          "label": "Immediately after"
+        },
+        {
+          "value": "same_night",
+          "label": "Same night"
+        },
+        {
+          "value": "next_morning",
+          "label": "Next morning"
+        },
+        {
+          "value": "within_48_hours",
+          "label": "Within 48 hours"
+        },
+        {
+          "value": "varies",
+          "label": "Varies"
+        },
+        {
+          "value": "not_applicable",
+          "label": "Not applicable"
+        }
+      ]
+    },
+    {
+      "id": "Q329",
+      "type": "single",
+      "text": "Who initiates reclaim most?",
+      "options": [
+        {
+          "value": "mostly_him",
+          "label": "Mostly him"
+        },
+        {
+          "value": "mostly_me",
+          "label": "Mostly me"
+        },
+        {
+          "value": "shared",
+          "label": "Shared"
+        },
+        {
+          "value": "not_applicable",
+          "label": "Not applicable"
+        }
+      ]
+    },
+    {
+      "id": "Q330",
+      "type": "multi",
+      "text": "What is reclaim sex primarily for? (choose up to 2)",
+      "options": [
+        {
+          "value": "his_reassurance/claiming",
+          "label": "His reassurance/claiming"
+        },
+        {
+          "value": "my_arousal_“afterglow”",
+          "label": "My arousal “afterglow”"
+        },
+        {
+          "value": "bonding/connection",
+          "label": "Bonding/connection"
+        },
+        {
+          "value": "duty/obligation",
+          "label": "Duty/obligation"
+        },
+        {
+          "value": "to_prevent_jealousy_spirals",
+          "label": "To prevent jealousy spirals"
+        },
+        {
+          "value": "to_intensify_the_kink_(contrast)",
+          "label": "To intensify the kink (contrast)"
+        },
+        {
+          "value": "it’s_just_routine",
+          "label": "It’s just routine"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        },
+        {
+          "value": "not_applicable",
+          "label": "Not applicable"
+        }
+      ]
+    },
+    {
+      "id": "Q331",
+      "type": "scale",
+      "text": "Your desire level for reclaim sex",
+      "min": 0,
+      "max": 10
+    },
+    {
+      "id": "Q332",
+      "type": "scale",
+      "text": "Your enjoyment level for reclaim sex",
+      "min": 0,
+      "max": 10
+    },
+    {
+      "id": "Q333",
+      "type": "single",
+      "text": "Do you ever agree to reclaim sex mainly to manage his emotions?",
+      "options": [
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "rare",
+          "label": "Rare"
+        },
+        {
+          "value": "sometimes",
+          "label": "Sometimes"
+        },
+        {
+          "value": "often",
+          "label": "Often"
+        },
+        {
+          "value": "always",
+          "label": "Always"
+        }
+      ]
+    },
+    {
+      "id": "Q334",
+      "type": "single",
+      "text": "Does reclaim sex ever feel like pressure?",
+      "options": [
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "rare",
+          "label": "Rare"
+        },
+        {
+          "value": "sometimes",
+          "label": "Sometimes"
+        },
+        {
+          "value": "often",
+          "label": "Often"
+        },
+        {
+          "value": "always",
+          "label": "Always"
+        }
+      ]
+    },
+    {
+      "id": "Q335",
+      "type": "single",
+      "text": "Does he ever expect it as a “requirement”?",
+      "options": [
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "rare",
+          "label": "Rare"
+        },
+        {
+          "value": "sometimes",
+          "label": "Sometimes"
+        },
+        {
+          "value": "often",
+          "label": "Often"
+        },
+        {
+          "value": "always",
+          "label": "Always"
+        }
+      ]
+    },
+    {
+      "id": "Q336",
+      "type": "single",
+      "text": "During reclaim sex, you feel most…",
+      "options": [
+        {
+          "value": "closer_to_him",
+          "label": "Closer to him"
+        },
+        {
+          "value": "aroused_from_contrast",
+          "label": "Aroused from contrast"
+        },
+        {
+          "value": "neutral",
+          "label": "Neutral"
+        },
+        {
+          "value": "disconnected",
+          "label": "Disconnected"
+        },
+        {
+          "value": "irritated",
+          "label": "Irritated"
+        },
+        {
+          "value": "guilty",
+          "label": "Guilty"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        }
+      ]
+    },
+    {
+      "id": "Q337",
+      "type": "single",
+      "text": "Does reclaim sex feel better, worse, or the same as “normal” sex?",
+      "options": [
+        {
+          "value": "much_better",
+          "label": "Much better"
+        },
+        {
+          "value": "slightly_better",
+          "label": "Slightly better"
+        },
+        {
+          "value": "same",
+          "label": "Same"
+        },
+        {
+          "value": "slightly_worse",
+          "label": "Slightly worse"
+        },
+        {
+          "value": "much_worse",
+          "label": "Much worse"
+        },
+        {
+          "value": "not_applicable",
+          "label": "Not applicable"
+        }
+      ]
+    },
+    {
+      "id": "Q338",
+      "type": "single",
+      "text": "How much does the bull encounter influence your arousal during reclaim?",
+      "options": [
+        {
+          "value": "not_at_all",
+          "label": "Not at all"
+        },
+        {
+          "value": "slight",
+          "label": "Slight"
+        },
+        {
+          "value": "moderate",
+          "label": "Moderate"
+        },
+        {
+          "value": "strong",
+          "label": "Strong"
+        },
+        {
+          "value": "it’s_central",
+          "label": "It’s central"
+        }
+      ]
+    },
+    {
+      "id": "Q339",
+      "type": "single",
+      "text": "Do you intentionally “perform” more during reclaim to soothe or excite him?",
+      "options": [
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "rare",
+          "label": "Rare"
+        },
+        {
+          "value": "sometimes",
+          "label": "Sometimes"
+        },
+        {
+          "value": "often",
+          "label": "Often"
+        },
+        {
+          "value": "always",
+          "label": "Always"
+        }
+      ]
+    },
+    {
+      "id": "Q340",
+      "type": "single",
+      "text": "If reclaim doesn’t happen, the main reason is…",
+      "options": [
+        {
+          "value": "i’m_not_interested",
+          "label": "I’m not interested"
+        },
+        {
+          "value": "i’m_tired",
+          "label": "I’m tired"
+        },
+        {
+          "value": "i_feel_overstimulated",
+          "label": "I feel overstimulated"
+        },
+        {
+          "value": "i_feel_guilty",
+          "label": "I feel guilty"
+        },
+        {
+          "value": "it_would_feel_fake",
+          "label": "It would feel fake"
+        },
+        {
+          "value": "he_withdraws",
+          "label": "He withdraws"
+        },
+        {
+          "value": "rules",
+          "label": "Rules"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        },
+        {
+          "value": "not_applicable",
+          "label": "Not applicable"
+        }
+      ]
+    },
+    {
+      "id": "Q341",
+      "type": "single",
+      "text": "In the 1–3 days after a bull encounter, your libido with your partner usually…",
+      "options": [
+        {
+          "value": "increases_a_lot",
+          "label": "Increases a lot"
+        },
+        {
+          "value": "increases",
+          "label": "Increases"
+        },
+        {
+          "value": "same",
+          "label": "Same"
+        },
+        {
+          "value": "decreases",
+          "label": "Decreases"
+        },
+        {
+          "value": "decreases_a_lot",
+          "label": "Decreases a lot"
+        },
+        {
+          "value": "varies",
+          "label": "Varies"
+        }
+      ]
+    },
+    {
+      "id": "Q342",
+      "type": "single",
+      "text": "Does arousal sometimes last for days where you want more sex (with your partner)?",
+      "options": [
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "rare",
+          "label": "Rare"
+        },
+        {
+          "value": "sometimes",
+          "label": "Sometimes"
+        },
+        {
+          "value": "often",
+          "label": "Often"
+        },
+        {
+          "value": "almost_always",
+          "label": "Almost always"
+        }
+      ]
+    },
+    {
+      "id": "Q343",
+      "type": "multi",
+      "text": "If yes, the increased desire is mostly driven by… (choose up to 2)",
+      "options": [
+        {
+          "value": "general_sexual_afterglow",
+          "label": "General sexual afterglow"
+        },
+        {
+          "value": "emotional_bonding",
+          "label": "Emotional bonding"
+        },
+        {
+          "value": "the_taboo/contrast_of_the_kink",
+          "label": "The taboo/contrast of the kink"
+        },
+        {
+          "value": "wanting_reassurance/connection",
+          "label": "Wanting reassurance/connection"
+        },
+        {
+          "value": "feeling_more_confident/desired",
+          "label": "Feeling more confident/desired"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        },
+        {
+          "value": "not_applicable",
+          "label": "Not applicable"
+        }
+      ]
+    },
+    {
+      "id": "Q344",
+      "type": "single",
+      "text": "Do you ever avoid sex with your partner after a bull encounter?",
+      "options": [
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "rare",
+          "label": "Rare"
+        },
+        {
+          "value": "sometimes",
+          "label": "Sometimes"
+        },
+        {
+          "value": "often",
+          "label": "Often"
+        },
+        {
+          "value": "almost_always",
+          "label": "Almost always"
+        }
+      ]
+    },
+    {
+      "id": "Q345",
+      "type": "multi",
+      "text": "If you avoid, why? (choose up to 2)",
+      "options": [
+        {
+          "value": "partner_sex_feels_underwhelming_by_comparison",
+          "label": "Partner sex feels underwhelming by comparison"
+        },
+        {
+          "value": "i_don’t_want_to_“come_down”_from_the_high",
+          "label": "I don’t want to “come down” from the high"
+        },
+        {
+          "value": "i_feel_physically_tender/sore",
+          "label": "I feel physically tender/sore"
+        },
+        {
+          "value": "i_feel_emotionally_flat",
+          "label": "I feel emotionally flat"
+        },
+        {
+          "value": "i_fear_he’ll_demand_details",
+          "label": "I fear he’ll demand details"
+        },
+        {
+          "value": "i_feel_guilt/shame",
+          "label": "I feel guilt/shame"
+        },
+        {
+          "value": "i’m_worried_about_hurting_his_ego",
+          "label": "I’m worried about hurting his ego"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        }
+      ]
+    },
+    {
+      "id": "Q346",
+      "type": "single",
+      "text": "When you anticipate partner sex will feel “lower pleasure,” you…",
+      "options": [
+        {
+          "value": "still_want_it",
+          "label": "Still want it"
+        },
+        {
+          "value": "feel_neutral",
+          "label": "Feel neutral"
+        },
+        {
+          "value": "feel_dread",
+          "label": "Feel dread"
+        },
+        {
+          "value": "try_to_delay",
+          "label": "Try to delay"
+        },
+        {
+          "value": "avoid",
+          "label": "Avoid"
+        },
+        {
+          "value": "depends",
+          "label": "Depends"
+        }
+      ]
+    },
+    {
+      "id": "Q347",
+      "type": "single",
+      "text": "Do you ever think of partner sex as “duty sex” after an encounter?",
+      "options": [
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "rare",
+          "label": "Rare"
+        },
+        {
+          "value": "sometimes",
+          "label": "Sometimes"
+        },
+        {
+          "value": "often",
+          "label": "Often"
+        },
+        {
+          "value": "always",
+          "label": "Always"
+        }
+      ]
+    },
+    {
+      "id": "Q348",
+      "type": "single",
+      "text": "If duty sex happens, what motivates it most?",
+      "options": [
+        {
+          "value": "keeping_peace",
+          "label": "Keeping peace"
+        },
+        {
+          "value": "protecting_him",
+          "label": "Protecting him"
+        },
+        {
+          "value": "relationship_maintenance",
+          "label": "Relationship maintenance"
+        },
+        {
+          "value": "fear_of_conflict",
+          "label": "Fear of conflict"
+        },
+        {
+          "value": "habit",
+          "label": "Habit"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        },
+        {
+          "value": "not_applicable",
+          "label": "Not applicable"
+        }
+      ]
+    },
+    {
+      "id": "Q349",
+      "type": "single",
+      "text": "Comparing “partner sex” after a bull encounter vs a normal week, it feels…",
+      "options": [
+        {
+          "value": "better",
+          "label": "Better"
+        },
+        {
+          "value": "same",
+          "label": "Same"
+        },
+        {
+          "value": "worse",
+          "label": "Worse"
+        },
+        {
+          "value": "much_worse",
+          "label": "Much worse"
+        },
+        {
+          "value": "varies",
+          "label": "Varies"
+        }
+      ]
+    },
+    {
+      "id": "Q350",
+      "type": "single",
+      "text": "How often does he seek sex in the days after a bull encounter?",
+      "options": [
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "less",
+          "label": "Less"
+        },
+        {
+          "value": "same",
+          "label": "Same"
+        },
+        {
+          "value": "more",
+          "label": "More"
+        },
+        {
+          "value": "much_more",
+          "label": "Much more"
+        },
+        {
+          "value": "varies",
+          "label": "Varies"
+        }
+      ]
+    },
+    {
+      "id": "Q351",
+      "type": "multi",
+      "text": "If he seeks more sex after, you interpret it as… (choose up to 2)",
+      "options": [
+        {
+          "value": "reassurance/claiming",
+          "label": "Reassurance/claiming"
+        },
+        {
+          "value": "heightened_arousal_from_the_kink",
+          "label": "Heightened arousal from the kink"
+        },
+        {
+          "value": "anxiety/jealousy_management",
+          "label": "Anxiety/jealousy management"
+        },
+        {
+          "value": "competition/proving_himself",
+          "label": "Competition/proving himself"
+        },
+        {
+          "value": "genuine_closeness",
+          "label": "Genuine closeness"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        }
+      ]
+    },
+    {
+      "id": "Q352",
+      "type": "single",
+      "text": "Does the post-encounter period increase relationship closeness overall?",
+      "options": [
+        {
+          "value": "yes_strongly",
+          "label": "Yes strongly"
+        },
+        {
+          "value": "yes_somewhat",
+          "label": "Yes somewhat"
+        },
+        {
+          "value": "no_change",
+          "label": "No change"
+        },
+        {
+          "value": "worse",
+          "label": "Worse"
+        },
+        {
+          "value": "much_worse",
+          "label": "Much worse"
+        }
+      ]
+    },
+    {
+      "id": "Q353",
+      "type": "single",
+      "text": "After a bull encounter, partner sex feels physically…",
+      "options": [
+        {
+          "value": "more_pleasurable",
+          "label": "More pleasurable"
+        },
+        {
+          "value": "same",
+          "label": "Same"
+        },
+        {
+          "value": "less_pleasurable",
+          "label": "Less pleasurable"
+        },
+        {
+          "value": "much_less_pleasurable",
+          "label": "Much less pleasurable"
+        },
+        {
+          "value": "not_sure",
+          "label": "Not sure"
+        }
+      ]
+    },
+    {
+      "id": "Q354",
+      "type": "single",
+      "text": "After a bull encounter, partner sex feels emotionally…",
+      "options": [
+        {
+          "value": "more_connected",
+          "label": "More connected"
+        },
+        {
+          "value": "same",
+          "label": "Same"
+        },
+        {
+          "value": "less_connected",
+          "label": "Less connected"
+        },
+        {
+          "value": "more_disconnected",
+          "label": "More disconnected"
+        },
+        {
+          "value": "not_sure",
+          "label": "Not sure"
+        }
+      ]
+    },
+    {
+      "id": "Q355",
+      "type": "single",
+      "text": "Does “contrast” itself turn you on (bull → partner)?",
+      "options": [
+        {
+          "value": "not_at_all",
+          "label": "Not at all"
+        },
+        {
+          "value": "slight",
+          "label": "Slight"
+        },
+        {
+          "value": "moderate",
+          "label": "Moderate"
+        },
+        {
+          "value": "strong",
+          "label": "Strong"
+        },
+        {
+          "value": "central",
+          "label": "Central"
+        }
+      ]
+    },
+    {
+      "id": "Q356",
+      "type": "single",
+      "text": "Does “contrast” ever create resentment or contempt?",
+      "options": [
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "rare",
+          "label": "Rare"
+        },
+        {
+          "value": "sometimes",
+          "label": "Sometimes"
+        },
+        {
+          "value": "often",
+          "label": "Often"
+        },
+        {
+          "value": "always",
+          "label": "Always"
+        }
+      ]
+    },
+    {
+      "id": "Q357",
+      "type": "single",
+      "text": "When partner sex feels less pleasurable, you usually…",
+      "options": [
+        {
+          "value": "compensate_with_enthusiasm",
+          "label": "Compensate with enthusiasm"
+        },
+        {
+          "value": "keep_it_brief",
+          "label": "Keep it brief"
+        },
+        {
+          "value": "avoid",
+          "label": "Avoid"
+        },
+        {
+          "value": "fake",
+          "label": "Fake"
+        },
+        {
+          "value": "try_to_coach_him",
+          "label": "Try to coach him"
+        },
+        {
+          "value": "not_sure",
+          "label": "Not sure"
+        }
+      ]
+    },
+    {
+      "id": "Q358",
+      "type": "single",
+      "text": "Do you ever worry your reactions will reveal the difference too clearly?",
+      "options": [
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "rare",
+          "label": "Rare"
+        },
+        {
+          "value": "sometimes",
+          "label": "Sometimes"
+        },
+        {
+          "value": "often",
+          "label": "Often"
+        },
+        {
+          "value": "always",
+          "label": "Always"
+        }
+      ]
+    },
+    {
+      "id": "Q359",
+      "type": "single",
+      "text": "Do you change your communication style after an encounter?",
+      "options": [
+        {
+          "value": "more_honest",
+          "label": "More honest"
+        },
+        {
+          "value": "more_reassuring",
+          "label": "More reassuring"
+        },
+        {
+          "value": "more_distant",
+          "label": "More distant"
+        },
+        {
+          "value": "more_controlling",
+          "label": "More controlling"
+        },
+        {
+          "value": "no_change",
+          "label": "No change"
+        },
+        {
+          "value": "not_sure",
+          "label": "Not sure"
+        }
+      ]
+    },
+    {
+      "id": "Q360",
+      "type": "single",
+      "text": "Net effect of post-encounter sex on the lifestyle health",
+      "options": [
+        {
+          "value": "strengthens_it",
+          "label": "Strengthens it"
+        },
+        {
+          "value": "neutral",
+          "label": "Neutral"
+        },
+        {
+          "value": "strains_it",
+          "label": "Strains it"
+        },
+        {
+          "value": "makes_it_unstable",
+          "label": "Makes it unstable"
+        },
+        {
+          "value": "not_sure",
+          "label": "Not sure"
+        }
+      ]
+    },
+    {
+      "id": "Q361",
+      "type": "single",
+      "text": "Masturbation frequency (past 30 days)",
+      "options": [
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "1–3x_month",
+          "label": "1–3x month"
+        },
+        {
+          "value": "weekly",
+          "label": "Weekly"
+        },
+        {
+          "value": "2–4x_week",
+          "label": "2–4x week"
+        },
+        {
+          "value": "5+_week",
+          "label": "5+ week"
+        },
+        {
+          "value": "daily+",
+          "label": "Daily+"
+        }
+      ]
+    },
+    {
+      "id": "Q362",
+      "type": "multi",
+      "text": "When you masturbate, it’s usually because… (choose up to 2)",
+      "options": [
+        {
+          "value": "i’m_genuinely_horny",
+          "label": "I’m genuinely horny"
+        },
+        {
+          "value": "stress_relief",
+          "label": "Stress relief"
+        },
+        {
+          "value": "sleep_help",
+          "label": "Sleep help"
+        },
+        {
+          "value": "boredom",
+          "label": "Boredom"
+        },
+        {
+          "value": "i_prefer_it_to_partner_sex",
+          "label": "I prefer it to partner sex"
+        },
+        {
+          "value": "partner_isn’t_available",
+          "label": "Partner isn’t available"
+        },
+        {
+          "value": "i’m_avoiding_disappointment",
+          "label": "I’m avoiding disappointment"
+        },
+        {
+          "value": "i’m_replaying_a_specific_fantasy",
+          "label": "I’m replaying a specific fantasy"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        }
+      ]
+    },
+    {
+      "id": "Q363",
+      "type": "single",
+      "text": "Masturbation vs partner sex preference (general)",
+      "options": [
+        {
+          "value": "prefer_partner_sex",
+          "label": "Prefer partner sex"
+        },
+        {
+          "value": "prefer_masturbation",
+          "label": "Prefer masturbation"
+        },
+        {
+          "value": "depends",
+          "label": "Depends"
+        },
+        {
+          "value": "equal",
+          "label": "Equal"
+        }
+      ]
+    },
+    {
+      "id": "Q364",
+      "type": "single",
+      "text": "Do you ever masturbate instead of having sex with your partner when he’s available?",
+      "options": [
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "rare",
+          "label": "Rare"
+        },
+        {
+          "value": "sometimes",
+          "label": "Sometimes"
+        },
+        {
+          "value": "often",
+          "label": "Often"
+        },
+        {
+          "value": "almost_always",
+          "label": "Almost always"
+        }
+      ]
+    },
+    {
+      "id": "Q365",
+      "type": "multi",
+      "text": "If yes, why? (choose up to 2)",
+      "options": [
+        {
+          "value": "faster",
+          "label": "Faster"
+        },
+        {
+          "value": "more_reliable_orgasm",
+          "label": "More reliable orgasm"
+        },
+        {
+          "value": "less_effort",
+          "label": "Less effort"
+        },
+        {
+          "value": "less_emotional_complexity",
+          "label": "Less emotional complexity"
+        },
+        {
+          "value": "partner_sex_feels_disappointing",
+          "label": "Partner sex feels disappointing"
+        },
+        {
+          "value": "i_don’t_want_to_manage_his_ego/emotions",
+          "label": "I don’t want to manage his ego/emotions"
+        },
+        {
+          "value": "i_don’t_feel_attracted_in_the_moment",
+          "label": "I don’t feel attracted in the moment"
+        },
+        {
+          "value": "i’m_saving_desire_for_bulls/others",
+          "label": "I’m saving desire for bulls/others"
+        },
+        {
+          "value": "i_feel_guilty",
+          "label": "I feel guilty"
+        },
+        {
+          "value": "i_feel_pressured",
+          "label": "I feel pressured"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        },
+        {
+          "value": "not_applicable",
+          "label": "Not applicable"
+        }
+      ]
+    },
+    {
+      "id": "Q366",
+      "type": "single",
+      "text": "Does masturbation reduce your desire for partner sex?",
+      "options": [
+        {
+          "value": "no",
+          "label": "No"
+        },
+        {
+          "value": "slightly",
+          "label": "Slightly"
+        },
+        {
+          "value": "moderately",
+          "label": "Moderately"
+        },
+        {
+          "value": "strongly",
+          "label": "Strongly"
+        },
+        {
+          "value": "it_replaces_it",
+          "label": "It replaces it"
+        }
+      ]
+    },
+    {
+      "id": "Q367",
+      "type": "single",
+      "text": "Does masturbation increase your desire for partner sex (prime effect)?",
+      "options": [
+        {
+          "value": "no",
+          "label": "No"
+        },
+        {
+          "value": "slightly",
+          "label": "Slightly"
+        },
+        {
+          "value": "moderately",
+          "label": "Moderately"
+        },
+        {
+          "value": "strongly",
+          "label": "Strongly"
+        },
+        {
+          "value": "sometimes_both",
+          "label": "Sometimes both"
+        }
+      ]
+    },
+    {
+      "id": "Q368",
+      "type": "single",
+      "text": "Orgasm reliability via masturbation",
+      "options": [
+        {
+          "value": "rare",
+          "label": "Rare"
+        },
+        {
+          "value": "sometimes",
+          "label": "Sometimes"
+        },
+        {
+          "value": "usually",
+          "label": "Usually"
+        },
+        {
+          "value": "almost_always",
+          "label": "Almost always"
+        }
+      ]
+    },
+    {
+      "id": "Q369",
+      "type": "scale",
+      "text": "Orgasm intensity via masturbation",
+      "min": 0,
+      "max": 10
+    },
+    {
+      "id": "Q370",
+      "type": "single",
+      "text": "Does your partner know your real masturbation frequency?",
+      "options": [
+        {
+          "value": "yes_fully",
+          "label": "Yes fully"
+        },
+        {
+          "value": "mostly",
+          "label": "Mostly"
+        },
+        {
+          "value": "somewhat",
+          "label": "Somewhat"
+        },
+        {
+          "value": "no",
+          "label": "No"
+        },
+        {
+          "value": "prefer_not_to_say",
+          "label": "Prefer not to say"
+        }
+      ]
+    },
+    {
+      "id": "Q371",
+      "type": "single",
+      "text": "Does masturbation ever create conflict?",
+      "options": [
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "rare",
+          "label": "Rare"
+        },
+        {
+          "value": "sometimes",
+          "label": "Sometimes"
+        },
+        {
+          "value": "often",
+          "label": "Often"
+        }
+      ]
+    },
+    {
+      "id": "Q372",
+      "type": "single",
+      "text": "If it causes conflict, it’s mostly about…",
+      "options": [
+        {
+          "value": "he_feels_rejected",
+          "label": "He feels rejected"
+        },
+        {
+          "value": "he_feels_inadequate",
+          "label": "He feels inadequate"
+        },
+        {
+          "value": "secrecy",
+          "label": "Secrecy"
+        },
+        {
+          "value": "porn_content",
+          "label": "Porn content"
+        },
+        {
+          "value": "frequency",
+          "label": "Frequency"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        },
+        {
+          "value": "not_applicable",
+          "label": "Not applicable"
+        }
+      ]
+    },
+    {
+      "id": "Q373",
+      "type": "single",
+      "text": "When you masturbate, what do you use most often?",
+      "options": [
+        {
+          "value": "porn",
+          "label": "Porn"
+        },
+        {
+          "value": "imagination",
+          "label": "Imagination"
+        },
+        {
+          "value": "erotica/audio",
+          "label": "Erotica/audio"
+        },
+        {
+          "value": "memories_of_past_sex",
+          "label": "Memories of past sex"
+        },
+        {
+          "value": "mixed",
+          "label": "Mixed"
+        }
+      ]
+    },
+    {
+      "id": "Q374",
+      "type": "multi",
+      "text": "If porn: preferred category (choose up to 3)",
+      "options": [
+        {
+          "value": "hotwife/cuck_themes",
+          "label": "Hotwife/cuck themes"
+        },
+        {
+          "value": "dom/sub",
+          "label": "Dom/sub"
+        },
+        {
+          "value": "rough",
+          "label": "Rough"
+        },
+        {
+          "value": "gentle/intimate",
+          "label": "Gentle/intimate"
+        },
+        {
+          "value": "group",
+          "label": "Group"
+        },
+        {
+          "value": "voyeur/exhibition",
+          "label": "Voyeur/exhibition"
+        },
+        {
+          "value": "amateur/realistic",
+          "label": "Amateur/realistic"
+        },
+        {
+          "value": "lesbian/bi",
+          "label": "Lesbian/Bi"
+        },
+        {
+          "value": "male–male",
+          "label": "Male–male"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        },
+        {
+          "value": "not_applicable",
+          "label": "Not applicable"
+        }
+      ]
+    },
+    {
+      "id": "Q375",
+      "type": "multi",
+      "text": "If imagination/memories: most common focus (choose up to 2)",
+      "options": [
+        {
+          "value": "my_partner",
+          "label": "My partner"
+        },
+        {
+          "value": "a_bull_(specific)",
+          "label": "A bull (specific)"
+        },
+        {
+          "value": "ideal_bull_fantasy",
+          "label": "Ideal bull fantasy"
+        },
+        {
+          "value": "a_past_lover_(pre-relationship)",
+          "label": "A past lover (pre-relationship)"
+        },
+        {
+          "value": "a_group_scenario",
+          "label": "A group scenario"
+        },
+        {
+          "value": "humiliation/contrast_scenario",
+          "label": "Humiliation/contrast scenario"
+        },
+        {
+          "value": "romance_scenario",
+          "label": "Romance scenario"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        },
+        {
+          "value": "not_applicable",
+          "label": "Not applicable"
+        }
+      ]
+    },
+    {
+      "id": "Q376",
+      "type": "single",
+      "text": "How often do you masturbate thinking about bulls?",
+      "options": [
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "rare",
+          "label": "Rare"
+        },
+        {
+          "value": "sometimes",
+          "label": "Sometimes"
+        },
+        {
+          "value": "often",
+          "label": "Often"
+        },
+        {
+          "value": "almost_always",
+          "label": "Almost always"
+        },
+        {
+          "value": "not_applicable",
+          "label": "Not applicable"
+        }
+      ]
+    },
+    {
+      "id": "Q377",
+      "type": "single",
+      "text": "How often do you masturbate thinking about your partner?",
+      "options": [
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "rare",
+          "label": "Rare"
+        },
+        {
+          "value": "sometimes",
+          "label": "Sometimes"
+        },
+        {
+          "value": "often",
+          "label": "Often"
+        },
+        {
+          "value": "almost_always",
+          "label": "Almost always"
+        }
+      ]
+    },
+    {
+      "id": "Q378",
+      "type": "single",
+      "text": "After masturbating, do you feel more or less desire for your partner?",
+      "options": [
+        {
+          "value": "more",
+          "label": "More"
+        },
+        {
+          "value": "same",
+          "label": "Same"
+        },
+        {
+          "value": "less",
+          "label": "Less"
+        },
+        {
+          "value": "depends",
+          "label": "Depends"
+        }
+      ]
+    },
+    {
+      "id": "Q379",
+      "type": "single",
+      "text": "Do you ever avoid masturbation because it makes partner sex feel worse by comparison?",
+      "options": [
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "rare",
+          "label": "Rare"
+        },
+        {
+          "value": "sometimes",
+          "label": "Sometimes"
+        },
+        {
+          "value": "often",
+          "label": "Often"
+        },
+        {
+          "value": "always",
+          "label": "Always"
+        }
+      ]
+    },
+    {
+      "id": "Q380",
+      "type": "single",
+      "text": "Do you ever masturbate as a substitute for emotional connection?",
+      "options": [
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "rare",
+          "label": "Rare"
+        },
+        {
+          "value": "sometimes",
+          "label": "Sometimes"
+        },
+        {
+          "value": "often",
+          "label": "Often"
+        },
+        {
+          "value": "always",
+          "label": "Always"
+        }
+      ]
+    },
+    {
+      "id": "Q381",
+      "type": "single",
+      "text": "Do you ever masturbate to “prepare” for a planned encounter with a bull?",
+      "options": [
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "rare",
+          "label": "Rare"
+        },
+        {
+          "value": "sometimes",
+          "label": "Sometimes"
+        },
+        {
+          "value": "often",
+          "label": "Often"
+        },
+        {
+          "value": "always",
+          "label": "Always"
+        }
+      ]
+    },
+    {
+      "id": "Q382",
+      "type": "single",
+      "text": "Do you keep fantasies private as a form of control or self-protection?",
+      "options": [
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "rare",
+          "label": "Rare"
+        },
+        {
+          "value": "sometimes",
+          "label": "Sometimes"
+        },
+        {
+          "value": "often",
+          "label": "Often"
+        },
+        {
+          "value": "always",
+          "label": "Always"
+        }
+      ]
+    },
+    {
+      "id": "Q383",
+      "type": "single",
+      "text": "How often do you genuinely feel horny?",
+      "options": [
+        {
+          "value": "rarely",
+          "label": "Rarely"
+        },
+        {
+          "value": "monthly",
+          "label": "Monthly"
+        },
+        {
+          "value": "weekly",
+          "label": "Weekly"
+        },
+        {
+          "value": "2–4x_week",
+          "label": "2–4x week"
+        },
+        {
+          "value": "daily",
+          "label": "Daily"
+        },
+        {
+          "value": "multiple_times/day",
+          "label": "Multiple times/day"
+        }
+      ]
+    },
+    {
+      "id": "Q384",
+      "type": "single",
+      "text": "When you feel horny, your first choice is usually…",
+      "options": [
+        {
+          "value": "sex_with_my_partner",
+          "label": "Sex with my partner"
+        },
+        {
+          "value": "masturbation",
+          "label": "Masturbation"
+        },
+        {
+          "value": "sex_with_a_bull",
+          "label": "Sex with a bull"
+        },
+        {
+          "value": "depends",
+          "label": "Depends"
+        },
+        {
+          "value": "not_sure",
+          "label": "Not sure"
+        }
+      ]
+    },
+    {
+      "id": "Q385",
+      "type": "single",
+      "text": "How often are you horny but still don’t want sex with your partner?",
+      "options": [
+        {
+          "value": "never",
+          "label": "Never"
+        },
+        {
+          "value": "rare",
+          "label": "Rare"
+        },
+        {
+          "value": "sometimes",
+          "label": "Sometimes"
+        },
+        {
+          "value": "often",
+          "label": "Often"
+        },
+        {
+          "value": "almost_always",
+          "label": "Almost always"
+        }
+      ]
+    },
+    {
+      "id": "Q386",
+      "type": "multi",
+      "text": "If horny-but-not-him happens, the main reason is… (choose up to 2)",
+      "options": [
+        {
+          "value": "low_attraction_in_that_moment",
+          "label": "Low attraction in that moment"
+        },
+        {
+          "value": "fear_of_disappointment/low_pleasure",
+          "label": "Fear of disappointment/low pleasure"
+        },
+        {
+          "value": "emotional_disconnection",
+          "label": "Emotional disconnection"
+        },
+        {
+          "value": "resentment/contempt",
+          "label": "Resentment/contempt"
+        },
+        {
+          "value": "partner’s_insecurity/neediness",
+          "label": "Partner’s insecurity/neediness"
+        },
+        {
+          "value": "he_expects_performance/reassurance",
+          "label": "He expects performance/reassurance"
+        },
+        {
+          "value": "i’m_saving_desire_for_others",
+          "label": "I’m saving desire for others"
+        },
+        {
+          "value": "guilt/shame",
+          "label": "Guilt/shame"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        }
+      ]
+    },
+    {
+      "id": "Q387",
+      "type": "single",
+      "text": "When horny-but-not-him happens, you usually…",
+      "options": [
+        {
+          "value": "initiate_anyway",
+          "label": "Initiate anyway"
+        },
+        {
+          "value": "masturbate",
+          "label": "Masturbate"
+        },
+        {
+          "value": "avoid_all_sex",
+          "label": "Avoid all sex"
+        },
+        {
+          "value": "seek_a_bull",
+          "label": "Seek a bull"
+        },
+        {
+          "value": "start_a_fight",
+          "label": "Start a fight"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        }
+      ]
+    },
+    {
+      "id": "Q388",
+      "type": "single",
+      "text": "Does your partner notice this pattern?",
+      "options": [
+        {
+          "value": "yes_clearly",
+          "label": "Yes clearly"
+        },
+        {
+          "value": "sometimes",
+          "label": "Sometimes"
+        },
+        {
+          "value": "no",
+          "label": "No"
+        },
+        {
+          "value": "not_sure",
+          "label": "Not sure"
+        }
+      ]
+    },
+    {
+      "id": "Q389",
+      "type": "single",
+      "text": "If he notices, what does he do?",
+      "options": [
+        {
+          "value": "becomes_insecure",
+          "label": "Becomes insecure"
+        },
+        {
+          "value": "gets_controlling",
+          "label": "Gets controlling"
+        },
+        {
+          "value": "withdraws",
+          "label": "Withdraws"
+        },
+        {
+          "value": "tries_harder",
+          "label": "Tries harder"
+        },
+        {
+          "value": "asks_for_honesty",
+          "label": "Asks for honesty"
+        },
+        {
+          "value": "doesn’t_mention_it",
+          "label": "Doesn’t mention it"
+        }
+      ]
+    },
+    {
+      "id": "Q390",
+      "type": "scale",
+      "text": "SJC: “I often want sex—just not with my partner.” (agree level)",
+      "min": 1,
+      "max": 5,
+      "hint": "1 = strongly disagree, 5 = strongly agree"
+    },
+    {
+      "id": "Q391",
+      "type": "scale",
+      "text": "When I say I’m tired/stressed/headachy, that’s genuinely the main reason I don’t want sex.",
+      "min": 1,
+      "max": 5
+    },
+    {
+      "id": "Q392",
+      "type": "scale",
+      "text": "“Tired/stressed” is sometimes the easiest explanation, even when the real reason is I don’t want this sex.",
+      "min": 1,
+      "max": 5
+    },
+    {
+      "id": "Q394",
+      "type": "scale",
+      "text": "If I expected great sex with my partner, I’d find the energy more often.",
+      "min": 1,
+      "max": 5
+    },
+    {
+      "id": "Q395",
+      "type": "scale",
+      "text": "I avoid sex because the emotional labour feels heavier than the pleasure.",
+      "min": 1,
+      "max": 5
+    },
+    {
+      "id": "Q398",
+      "type": "scale",
+      "text": "Sometimes I choose the nicest reason rather than the truest reason.",
+      "min": 1,
+      "max": 5
+    },
+    {
+      "id": "Q402",
+      "type": "scale",
+      "text": "I sometimes use “not in the mood” as a blanket reason that hides several real reasons.",
+      "min": 1,
+      "max": 5
+    },
+    {
+      "id": "Q403",
+      "type": "single",
+      "text": "If you knew your partner would deliver genuinely satisfying sex tonight, would you still decline for the same reason?",
+      "options": [
+        {
+          "value": "definitely_still_decline",
+          "label": "Definitely still decline"
+        },
+        {
+          "value": "probably_still_decline",
+          "label": "Probably still decline"
+        },
+        {
+          "value": "not_sure",
+          "label": "Not sure"
+        },
+        {
+          "value": "probably_not",
+          "label": "Probably not"
+        },
+        {
+          "value": "definitely_not",
+          "label": "Definitely not"
+        }
+      ]
+    },
+    {
+      "id": "Q404",
+      "type": "single",
+      "text": "If declining sex caused zero emotional fallout, would you decline more often?",
+      "options": [
+        {
+          "value": "much_less",
+          "label": "Much less"
+        },
+        {
+          "value": "less",
+          "label": "Less"
+        },
+        {
+          "value": "same",
+          "label": "Same"
+        },
+        {
+          "value": "more",
+          "label": "More"
+        },
+        {
+          "value": "much_more",
+          "label": "Much more"
+        }
+      ]
+    },
+    {
+      "id": "Q434",
+      "type": "scale",
+      "text": "I decline sex mostly due to tiredness/stress.",
+      "min": 1,
+      "max": 5
+    },
+    {
+      "id": "Q435",
+      "type": "scale",
+      "text": "If I expected great sex, I’d find the energy.",
+      "min": 1,
+      "max": 5
+    },
+    {
+      "id": "Q452",
+      "type": "single",
+      "text": "Which is more true right now?",
+      "options": [
+        {
+          "value": "i_avoid_sex_mainly_due_to_life_stress",
+          "label": "I avoid sex mainly due to life stress"
+        },
+        {
+          "value": "i_avoid_sex_mainly_due_to_predicted_disappointment",
+          "label": "I avoid sex mainly due to predicted disappointment"
+        },
+        {
+          "value": "i_avoid_sex_mainly_due_to_attraction/emotional_disconnect",
+          "label": "I avoid sex mainly due to attraction/emotional disconnect"
+        },
+        {
+          "value": "i_don’t_avoid_much",
+          "label": "I don’t avoid much"
+        },
+        {
+          "value": "it_varies",
+          "label": "It varies"
+        }
+      ]
+    },
+    {
+      "id": "Q453",
+      "type": "single",
+      "text": "The reason you most want to be true is…",
+      "options": [
+        {
+          "value": "stress/time",
+          "label": "Stress/time"
+        },
+        {
+          "value": "attraction",
+          "label": "Attraction"
+        },
+        {
+          "value": "pleasure_gap",
+          "label": "Pleasure gap"
+        },
+        {
+          "value": "emotional_labour",
+          "label": "Emotional labour"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        }
+      ]
+    },
+    {
+      "id": "Q456",
+      "type": "single",
+      "text": "Overall life stress (past 30 days)",
+      "options": [
+        {
+          "value": "very_low",
+          "label": "Very low"
+        },
+        {
+          "value": "low",
+          "label": "Low"
+        },
+        {
+          "value": "medium",
+          "label": "Medium"
+        },
+        {
+          "value": "high",
+          "label": "High"
+        },
+        {
+          "value": "extreme",
+          "label": "Extreme"
+        }
+      ]
+    },
+    {
+      "id": "Q457",
+      "type": "single",
+      "text": "Biggest stress source (choose one)",
+      "options": [
+        {
+          "value": "money",
+          "label": "Money"
+        },
+        {
+          "value": "work",
+          "label": "Work"
+        },
+        {
+          "value": "parenting",
+          "label": "Parenting"
+        },
+        {
+          "value": "health",
+          "label": "Health"
+        },
+        {
+          "value": "family_conflict",
+          "label": "Family conflict"
+        },
+        {
+          "value": "time_scarcity",
+          "label": "Time scarcity"
+        },
+        {
+          "value": "housing",
+          "label": "Housing"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        }
+      ]
+    },
+    {
+      "id": "Q458",
+      "type": "scale",
+      "text": "Money stress level",
+      "min": 0,
+      "max": 10
+    },
+    {
+      "id": "Q459",
+      "type": "scale",
+      "text": "Sleep quality",
+      "min": 0,
+      "max": 10
+    },
+    {
+      "id": "Q460",
+      "type": "single",
+      "text": "Mental load distribution feels…",
+      "options": [
+        {
+          "value": "mostly_me",
+          "label": "Mostly me"
+        },
+        {
+          "value": "slightly_me",
+          "label": "Slightly me"
+        },
+        {
+          "value": "balanced",
+          "label": "Balanced"
+        },
+        {
+          "value": "slightly_him",
+          "label": "Slightly him"
+        },
+        {
+          "value": "mostly_him",
+          "label": "Mostly him"
+        }
+      ]
+    },
+    {
+      "id": "Q461",
+      "type": "single",
+      "text": "Household labour distribution feels…",
+      "options": [
+        {
+          "value": "mostly_me",
+          "label": "Mostly me"
+        },
+        {
+          "value": "slightly_me",
+          "label": "Slightly me"
+        },
+        {
+          "value": "balanced",
+          "label": "Balanced"
+        },
+        {
+          "value": "slightly_him",
+          "label": "Slightly him"
+        },
+        {
+          "value": "mostly_him",
+          "label": "Mostly him"
+        }
+      ]
+    },
+    {
+      "id": "Q462",
+      "type": "single",
+      "text": "Frequency of unresolved daily irritation",
+      "options": [
+        {
+          "value": "rare",
+          "label": "Rare"
+        },
+        {
+          "value": "monthly",
+          "label": "Monthly"
+        },
+        {
+          "value": "weekly",
+          "label": "Weekly"
+        },
+        {
+          "value": "several_times/week",
+          "label": "Several times/week"
+        },
+        {
+          "value": "daily",
+          "label": "Daily"
+        }
+      ]
+    },
+    {
+      "id": "Q463",
+      "type": "single",
+      "text": "When stress is high, your libido usually…",
+      "options": [
+        {
+          "value": "increases",
+          "label": "Increases"
+        },
+        {
+          "value": "same",
+          "label": "Same"
+        },
+        {
+          "value": "decreases",
+          "label": "Decreases"
+        },
+        {
+          "value": "shuts_down",
+          "label": "Shuts down"
+        },
+        {
+          "value": "varies",
+          "label": "Varies"
+        }
+      ]
+    },
+    {
+      "id": "Q464",
+      "type": "single",
+      "text": "When stress is high, your desire for partner sex usually…",
+      "options": [
+        {
+          "value": "increases",
+          "label": "Increases"
+        },
+        {
+          "value": "same",
+          "label": "Same"
+        },
+        {
+          "value": "decreases",
+          "label": "Decreases"
+        },
+        {
+          "value": "shuts_down",
+          "label": "Shuts down"
+        },
+        {
+          "value": "varies",
+          "label": "Varies"
+        }
+      ]
+    },
+    {
+      "id": "Q465",
+      "type": "single",
+      "text": "When stress is high, your desire for masturbation usually…",
+      "options": [
+        {
+          "value": "increases",
+          "label": "Increases"
+        },
+        {
+          "value": "same",
+          "label": "Same"
+        },
+        {
+          "value": "decreases",
+          "label": "Decreases"
+        },
+        {
+          "value": "shuts_down",
+          "label": "Shuts down"
+        },
+        {
+          "value": "varies",
+          "label": "Varies"
+        }
+      ]
+    },
+    {
+      "id": "Q466",
+      "type": "single",
+      "text": "When stress is high, your desire for bull encounters usually…",
+      "options": [
+        {
+          "value": "increases",
+          "label": "Increases"
+        },
+        {
+          "value": "same",
+          "label": "Same"
+        },
+        {
+          "value": "decreases",
+          "label": "Decreases"
+        },
+        {
+          "value": "shuts_down",
+          "label": "Shuts down"
+        },
+        {
+          "value": "not_applicable",
+          "label": "Not applicable"
+        }
+      ]
+    },
+    {
+      "id": "Q469",
+      "type": "scale",
+      "text": "Respect for partner overall",
+      "min": 0,
+      "max": 10
+    },
+    {
+      "id": "Q470",
+      "type": "scale",
+      "text": "Feeling respected by partner",
+      "min": 0,
+      "max": 10
+    },
+    {
+      "id": "Q471",
+      "type": "scale",
+      "text": "Admiration for partner",
+      "min": 0,
+      "max": 10
+    },
+    {
+      "id": "Q472",
+      "type": "scale",
+      "text": "“He shows up as an adult partner” (reliability)",
+      "min": 0,
+      "max": 10
+    },
+    {
+      "id": "Q476",
+      "type": "scale",
+      "text": "“I feel like his mother/manager.” (agree level)",
+      "min": 0,
+      "max": 10
+    },
+    {
+      "id": "Q478",
+      "type": "multi",
+      "text": "Most common day-to-day attraction killer (choose up to 2)",
+      "options": [
+        {
+          "value": "neediness",
+          "label": "Neediness"
+        },
+        {
+          "value": "passivity",
+          "label": "Passivity"
+        },
+        {
+          "value": "poor_hygiene",
+          "label": "Poor hygiene"
+        },
+        {
+          "value": "messiness",
+          "label": "Messiness"
+        },
+        {
+          "value": "laziness",
+          "label": "Laziness"
+        },
+        {
+          "value": "anger",
+          "label": "Anger"
+        },
+        {
+          "value": "victimhood",
+          "label": "Victimhood"
+        },
+        {
+          "value": "lack_of_leadership",
+          "label": "Lack of leadership"
+        },
+        {
+          "value": "lack_of_affection",
+          "label": "Lack of affection"
+        },
+        {
+          "value": "criticism",
+          "label": "Criticism"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        }
+      ]
+    },
+    {
+      "id": "Q479",
+      "type": "multi",
+      "text": "Most common day-to-day attraction builder (choose up to 2)",
+      "options": [
+        {
+          "value": "competence",
+          "label": "Competence"
+        },
+        {
+          "value": "leadership",
+          "label": "Leadership"
+        },
+        {
+          "value": "calm_confidence",
+          "label": "Calm confidence"
+        },
+        {
+          "value": "humor",
+          "label": "Humor"
+        },
+        {
+          "value": "kindness",
+          "label": "Kindness"
+        },
+        {
+          "value": "reliability",
+          "label": "Reliability"
+        },
+        {
+          "value": "physical_fitness",
+          "label": "Physical fitness"
+        },
+        {
+          "value": "initiative",
+          "label": "Initiative"
+        },
+        {
+          "value": "protective_energy",
+          "label": "Protective energy"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        }
+      ]
+    },
+    {
+      "id": "Q480",
+      "type": "single",
+      "text": "Do you feel you and your partner still date each other?",
+      "options": [
+        {
+          "value": "yes_regularly",
+          "label": "Yes regularly"
+        },
+        {
+          "value": "sometimes",
+          "label": "Sometimes"
+        },
+        {
+          "value": "rarely",
+          "label": "Rarely"
+        },
+        {
+          "value": "never",
+          "label": "Never"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "S0",
+      "title": "Snapshot + Real‑Life Context (Quick)",
+      "questionIds": [
+        "Q1",
+        "Q2",
+        "Q3",
+        "Q4",
+        "Q5",
+        "Q6",
+        "Q7",
+        "Q8",
+        "Q9",
+        "Q10",
+        "Q11",
+        "Q12",
+        "Q456",
+        "Q457",
+        "Q458",
+        "Q459",
+        "Q460",
+        "Q461",
+        "Q462",
+        "Q463",
+        "Q464",
+        "Q465",
+        "Q466",
+        "Q469",
+        "Q470",
+        "Q471",
+        "Q472"
+      ]
+    },
+    {
+      "id": "S1",
+      "title": "Relationship baseline + Partner sex baseline (fill these placeholders)",
+      "questionIds": [
+        "Q13",
+        "Q14",
+        "Q15",
+        "Q16",
+        "Q17",
+        "Q18",
+        "Q19",
+        "Q20",
+        "Q21",
+        "Q22",
+        "Q23",
+        "Q24",
+        "Q25",
+        "Q26",
+        "Q27",
+        "Q28",
+        "Q29",
+        "Q30",
+        "Q31",
+        "Q32",
+        "Q33",
+        "Q34",
+        "Q35",
+        "Q36",
+        "Q37",
+        "Q38",
+        "Q39",
+        "Q40",
+        "Q41",
+        "Q42",
+        "Q43",
+        "Q44",
+        "Q45",
+        "Q46",
+        "Q47",
+        "Q48",
+        "Q49",
+        "Q50",
+        "Q51",
+        "Q52",
+        "Q53",
+        "Q54",
+        "Q55",
+        "Q56",
+        "Q57",
+        "Q58",
+        "Q59",
+        "Q60",
+        "Q61",
+        "Q62",
+        "Q63",
+        "Q64",
+        "Q65",
+        "Q66",
+        "Q67",
+        "Q68",
+        "Q69",
+        "Q70",
+        "Q71",
+        "Q72",
+        "Q73",
+        "Q74",
+        "Q75",
+        "Q76",
+        "Q77",
+        "Q78",
+        "Q79",
+        "Q80",
+        "Q81",
+        "Q82",
+        "Q83",
+        "Q84",
+        "Q85",
+        "Q86",
+        "Q87",
+        "Q88",
+        "Q89",
+        "Q90",
+        "Q91",
+        "Q92",
+        "Q93",
+        "Q94",
+        "Q95",
+        "Q96",
+        "Q97",
+        "Q98",
+        "Q99",
+        "Q100",
+        "Q101",
+        "Q102",
+        "Q103",
+        "Q104",
+        "Q105",
+        "Q106",
+        "Q107",
+        "Q108",
+        "Q109",
+        "Q110",
+        "Q111",
+        "Q112",
+        "Q113",
+        "Q114",
+        "Q115",
+        "Q116",
+        "Q117",
+        "Q118",
+        "Q119",
+        "Q120",
+        "Q121",
+        "Q122"
+      ]
+    },
+    {
+      "id": "S2",
+      "title": "Day‑to‑day attraction killers (quick)",
+      "questionIds": [
+        "Q476",
+        "Q478",
+        "Q479",
+        "Q480"
+      ]
+    },
+    {
+      "id": "S3",
+      "title": "Honesty / Secrecy (trimmed core placeholders)",
+      "questionIds": [
+        "Q123",
+        "Q124",
+        "Q125",
+        "Q126",
+        "Q127",
+        "Q128",
+        "Q129",
+        "Q130",
+        "Q131",
+        "Q132",
+        "Q133",
+        "Q134",
+        "Q135",
+        "Q136",
+        "Q137",
+        "Q138",
+        "Q139",
+        "Q140",
+        "Q141",
+        "Q142",
+        "Q143",
+        "Q144",
+        "Q145"
+      ]
+    },
+    {
+      "id": "S4",
+      "title": "Consent / Safety gates (placeholders)",
+      "questionIds": [
+        "Q186",
+        "Q187",
+        "Q188",
+        "Q189",
+        "Q190",
+        "Q191",
+        "Q192"
+      ]
+    },
+    {
+      "id": "S5",
+      "title": "MM involvement / Bi dynamics",
+      "questionIds": [
+        "Q201",
+        "Q202",
+        "Q203",
+        "Q204",
+        "Q205",
+        "Q206",
+        "Q207",
+        "Q208",
+        "Q209",
+        "Q210",
+        "Q211",
+        "Q212",
+        "Q213",
+        "Q214",
+        "Q215",
+        "Q216",
+        "Q217",
+        "Q218",
+        "Q219",
+        "Q220",
+        "Q221",
+        "Q222",
+        "Q223",
+        "Q224",
+        "Q225",
+        "Q226",
+        "Q227",
+        "Q228",
+        "Q229",
+        "Q230",
+        "Q231",
+        "Q232",
+        "Q233",
+        "Q234",
+        "Q235",
+        "Q236",
+        "Q237",
+        "Q238",
+        "Q239",
+        "Q240"
+      ]
+    },
+    {
+      "id": "S6",
+      "title": "Arousal map + porn + in‑encounter dynamics",
+      "questionIds": [
+        "Q241",
+        "Q242",
+        "Q243",
+        "Q244",
+        "Q245",
+        "Q246",
+        "Q247",
+        "Q248",
+        "Q249",
+        "Q250",
+        "Q251",
+        "Q252",
+        "Q253",
+        "Q254",
+        "Q255",
+        "Q256",
+        "Q257",
+        "Q258",
+        "Q259",
+        "Q260",
+        "Q261",
+        "Q262",
+        "Q263",
+        "Q264",
+        "Q265",
+        "Q266",
+        "Q267",
+        "Q268",
+        "Q269",
+        "Q270",
+        "Q271",
+        "Q272",
+        "Q273",
+        "Q274",
+        "Q275",
+        "Q276",
+        "Q277",
+        "Q278",
+        "Q279",
+        "Q280",
+        "Q281",
+        "Q282",
+        "Q283",
+        "Q284",
+        "Q285",
+        "Q286",
+        "Q287",
+        "Q288",
+        "Q289",
+        "Q290",
+        "Q291",
+        "Q292",
+        "Q293",
+        "Q294",
+        "Q295",
+        "Q296",
+        "Q297",
+        "Q298",
+        "Q299",
+        "Q300",
+        "Q301",
+        "Q302",
+        "Q303",
+        "Q304",
+        "Q305",
+        "Q306",
+        "Q307",
+        "Q308",
+        "Q309",
+        "Q310",
+        "Q311",
+        "Q312",
+        "Q313",
+        "Q314",
+        "Q315",
+        "Q316",
+        "Q317",
+        "Q318",
+        "Q319",
+        "Q320",
+        "Q321",
+        "Q322",
+        "Q323",
+        "Q324",
+        "Q325",
+        "Q326"
+      ]
+    },
+    {
+      "id": "S7",
+      "title": "Post‑encounter / Reclaim sex",
+      "questionIds": [
+        "Q327",
+        "Q328",
+        "Q329",
+        "Q330",
+        "Q331",
+        "Q332",
+        "Q333",
+        "Q334",
+        "Q335",
+        "Q336",
+        "Q337",
+        "Q338",
+        "Q339",
+        "Q340",
+        "Q341",
+        "Q342",
+        "Q343",
+        "Q344",
+        "Q345",
+        "Q346",
+        "Q347",
+        "Q348",
+        "Q349",
+        "Q350",
+        "Q351",
+        "Q352",
+        "Q353",
+        "Q354",
+        "Q355",
+        "Q356",
+        "Q357",
+        "Q358",
+        "Q359",
+        "Q360"
+      ]
+    },
+    {
+      "id": "S8",
+      "title": "Masturbation + fantasy fuel + horny‑but‑not‑him",
+      "questionIds": [
+        "Q361",
+        "Q362",
+        "Q363",
+        "Q364",
+        "Q365",
+        "Q366",
+        "Q367",
+        "Q368",
+        "Q369",
+        "Q370",
+        "Q371",
+        "Q372",
+        "Q373",
+        "Q374",
+        "Q375",
+        "Q376",
+        "Q377",
+        "Q378",
+        "Q379",
+        "Q380",
+        "Q381",
+        "Q382",
+        "Q383",
+        "Q384",
+        "Q385",
+        "Q386",
+        "Q387",
+        "Q388",
+        "Q389",
+        "Q390"
+      ]
+    },
+    {
+      "id": "S9",
+      "title": "Truth pressure (compressed)",
+      "questionIds": [
+        "Q391",
+        "Q392",
+        "Q394",
+        "Q395",
+        "Q398",
+        "Q402",
+        "Q403",
+        "Q404",
+        "Q434",
+        "Q435",
+        "Q452",
+        "Q453"
+      ]
+    }
+  ],
+  "notes": [
+    "Questions Q1–Q122 and several other early items are placeholders in this package because their finalized wording was not present in this chat transcript.",
+    "Replace placeholder question text inside questions_core.json before publishing.",
+    "All scoring runs client-side in scoring.js; adjust weights/logic as you finalize constructs."
+  ]
+}
