@@ -1,110 +1,111 @@
 {
-  "version": "0.1",
-  "questions": [
-    {
-      "id": "Q1",
-      "type": "text",
-      "text": "[PLACEHOLDER] Insert your finalized wording for Q1 here.",
-      "rows": 2,
-      "placeholder": "Replace this placeholder question text with the final item."
-    },
-    {
-      "id": "Q2",
-      "type": "text",
-      "text": "[PLACEHOLDER] Insert your finalized wording for Q2 here.",
-      "rows": 2,
-      "placeholder": "Replace this placeholder question text with the final item."
-    },
-    {
-      "id": "Q3",
-      "type": "text",
-      "text": "[PLACEHOLDER] Insert your finalized wording for Q3 here.",
-      "rows": 2,
-      "placeholder": "Replace this placeholder question text with the final item."
-    },
-    {
-      "id": "Q4",
-      "type": "text",
-      "text": "[PLACEHOLDER] Insert your finalized wording for Q4 here.",
-      "rows": 2,
-      "placeholder": "Replace this placeholder question text with the final item."
-    },
-    {
-      "id": "Q5",
-      "type": "text",
-      "text": "[PLACEHOLDER] Insert your finalized wording for Q5 here.",
-      "rows": 2,
-      "placeholder": "Replace this placeholder question text with the final item."
-    },
-    {
-      "id": "Q6",
-      "type": "text",
-      "text": "[PLACEHOLDER] Insert your finalized wording for Q6 here.",
-      "rows": 2,
-      "placeholder": "Replace this placeholder question text with the final item."
-    },
-    {
-      "id": "Q7",
-      "type": "text",
-      "text": "[PLACEHOLDER] Insert your finalized wording for Q7 here.",
-      "rows": 2,
-      "placeholder": "Replace this placeholder question text with the final item."
-    },
-    {
-      "id": "Q8",
-      "type": "text",
-      "text": "[PLACEHOLDER] Insert your finalized wording for Q8 here.",
-      "rows": 2,
-      "placeholder": "Replace this placeholder question text with the final item."
-    },
-    {
-      "id": "Q9",
-      "type": "text",
-      "text": "[PLACEHOLDER] Insert your finalized wording for Q9 here.",
-      "rows": 2,
-      "placeholder": "Replace this placeholder question text with the final item."
-    },
-    {
-      "id": "Q10",
-      "type": "text",
-      "text": "[PLACEHOLDER] Insert your finalized wording for Q10 here.",
-      "rows": 2,
-      "placeholder": "Replace this placeholder question text with the final item."
-    },
-    {
-      "id": "Q11",
-      "type": "text",
-      "text": "[PLACEHOLDER] Insert your finalized wording for Q11 here.",
-      "rows": 2,
-      "placeholder": "Replace this placeholder question text with the final item."
-    },
-    {
-      "id": "Q12",
-      "type": "text",
-      "text": "[PLACEHOLDER] Insert your finalized wording for Q12 here.",
-      "rows": 2,
-      "placeholder": "Replace this placeholder question text with the final item."
-    },
-    {
-      "id": "Q13",
-      "type": "text",
-      "text": "[PLACEHOLDER] Insert your finalized wording for Q13 here.",
-      "rows": 2,
-      "placeholder": "Replace this placeholder question text with the final item."
-    },
-    {
-      "id": "Q14",
-      "type": "text",
-      "text": "[PLACEHOLDER] Insert your finalized wording for Q14 here.",
-      "rows": 2,
-      "placeholder": "Replace this placeholder question text with the final item."
-    },
-    {
-      "id": "Q15",
-      "type": "text",
-      "text": "[PLACEHOLDER] Insert your finalized wording for Q15 here.",
-      "rows": 2,
-      "placeholder": "Replace this placeholder question text with the final item."
+  "id": "Q1",
+  "type": "single",
+  "text": "Are you 18 years or older?",
+  "options": ["Yes", "No"]
+},
+{
+  "id": "Q2",
+  "type": "single",
+  "text": "Is your dynamic consensual for you and your primary partner?",
+  "options": ["Yes", "No", "Unsure"]
+},
+{
+  "id": "Q3",
+  "type": "scale",
+  "text": "I feel safe saying “no” to any part of this dynamic at any time.",
+  "min": 1,
+  "max": 5,
+  "labels": ["Strongly disagree", "Disagree", "Neutral", "Agree", "Strongly agree"]
+},
+{
+  "id": "Q4",
+  "type": "scale",
+  "text": "My partner respects my boundaries without punishment, sulking, threats, or retaliation.",
+  "min": 1,
+  "max": 5,
+  "labels": ["Strongly disagree", "Disagree", "Neutral", "Agree", "Strongly agree"]
+},
+{
+  "id": "Q5",
+  "type": "single",
+  "text": "Have you ever felt pressured to participate in any part of the dynamic?",
+  "options": ["Never", "Once", "More than once", "Often"]
+},
+{
+  "id": "Q6",
+  "type": "single",
+  "text": "Have you ever pressured your partner to participate in any part of the dynamic?",
+  "options": ["Never", "Once", "More than once", "Often"]
+},
+{
+  "id": "Q7",
+  "type": "single",
+  "text": "Do you and your partner have agreed sexual health boundaries (testing, condoms/barriers, etc.)?",
+  "options": ["Yes", "Somewhat", "No"]
+},
+{
+  "id": "Q8",
+  "type": "single",
+  "text": "Do you have a clear “stop / pause” plan (safe word, check-ins, exit plan)?",
+  "options": ["Yes", "Somewhat", "No"]
+},
+{
+  "id": "Q9",
+  "type": "scale",
+  "text": "Overall relationship satisfaction (outside the kink).",
+  "min": 0,
+  "max": 10,
+  "labels": ["0", "10"]
+},
+{
+  "id": "Q10",
+  "type": "scale",
+  "text": "Trust in your primary partner.",
+  "min": 0,
+  "max": 10,
+  "labels": ["0", "10"]
+},
+{
+  "id": "Q11",
+  "type": "scale",
+  "text": "Emotional closeness with your primary partner.",
+  "min": 0,
+  "max": 10,
+  "labels": ["0", "10"]
+},
+{
+  "id": "Q12",
+  "type": "single",
+  "text": "How often do you and your partner have conflict that feels unresolved?",
+  "options": ["Never", "Rarely", "Sometimes", "Often", "Very often"]
+},
+{
+  "id": "Q13",
+  "type": "scale",
+  "text": "We repair well after conflict (apologise, reconnect, and move forward).",
+  "min": 1,
+  "max": 5,
+  "labels": ["Strongly disagree", "Disagree", "Neutral", "Agree", "Strongly agree"]
+},
+{
+  "id": "Q14",
+  "type": "scale",
+  "text": "I feel appreciated and valued in the relationship.",
+  "min": 1,
+  "max": 5,
+  "labels": ["Strongly disagree", "Disagree", "Neutral", "Agree", "Strongly agree"]
+},
+{
+  "id": "Q15",
+  "type": "scale",
+  "text": "I respect my partner as a person.",
+  "min": 1,
+  "max": 5,
+  "labels": ["Strongly disagree", "Disagree", "Neutral", "Agree", "Strongly agree"]
+}
+
+ 
     },
     {
       "id": "Q16",
